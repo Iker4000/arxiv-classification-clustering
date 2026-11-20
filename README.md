@@ -23,9 +23,7 @@ Jam-Etapa2/
 ├── README.md                     # este archivo
 ├── requirements.txt              # dependencias (ver nota de versiones)
 ├── docs/
-│   ├── EVIDENCIA_STAGE2_EQUIPO4_7CM3.pdf   # reporte (versión final con portada y figuras)
-│   ├── Proyecto_Etapa_II_Informe.docx      # reporte (versión con anexos ampliados)
-│   └── Reporte_Etapa_II.pdf                # reporte combinado (superconjunto de los dos)
+│   └── Reporte_Etapa_II.pdf                # reporte del proyecto
 ├── data/
 │   └── raw/
 │       └── scientific_raw_corpus.tsv       # corpus crudo compartido (6,000 artículos)
@@ -132,12 +130,8 @@ silhouette dev = **0.0658**, NMI dev = 0.460, estabilidad entre semillas = 0.985
 
 ## Reporte
 
-En `docs/` están los dos reportes originales y el combinado:
-
-- `EVIDENCIA_STAGE2_EQUIPO4_7CM3.pdf` — versión final con portada, figuras y Anexo A.
-- `Proyecto_Etapa_II_Informe.docx` — versión con Anexo B (36 configuraciones de K-Means)
-  y checklist de entregables.
-- `Reporte_Etapa_II.pdf` — combinación de ambos (superconjunto más completo).
+El reporte del proyecto está en `docs/Reporte_Etapa_II.pdf`: incluye portada, figuras,
+Anexo A, Anexo B (36 configuraciones de K-Means) y el checklist de entregables.
 
 ---
 
