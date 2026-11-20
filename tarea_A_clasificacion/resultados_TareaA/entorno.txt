@@ -1,0 +1,5 @@
+python=3.14.3
+numpy=2.5.0
+pandas=3.0.3
+scikit-learn=1.8.0
+random_state_split=0

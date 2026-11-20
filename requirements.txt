@@ -1,0 +1,11 @@
+# Superconjunto de conveniencia para ambas tareas.
+# Para reproducir los resultados, usar el requirements.txt de cada tarea:
+#   - tarea_A_clasificacion/requirements.txt
+#   - tarea_B_kmeans/requirements.txt  (scikit-learn==1.6.1, necesario para kmeans_pipeline.joblib)
+numpy
+pandas
+scikit-learn
+nltk
+scipy
+joblib
+matplotlib

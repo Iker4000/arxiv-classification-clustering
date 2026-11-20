@@ -1,0 +1,6 @@
+cluster_id	size_total	size_train	size_dev	size_test	top_words	representative_document_ids	dominant_label(external)	flags
+0	1664	1169	232	263	language, language models, models, reasoning, llms, llm, training, large language, tasks, task	2610.04399, 2609.38406, 2610.02856	cs.CL (40%)	mixed
+1	1118	794	159	165	equilibrium, optimal, games, preferences, game, choice, equilibria, agents, information, characterize	2606.24013, 2606.11377, 2603.12140	econ.TH (58%)	
+2	986	678	164	144	ai, economic, market, firms, demand, effects, price, countries, labor, markets	2602.08955, 2610.03791, 2607.02791	econ.GN (57%)	
+3	1313	912	201	200	neural, brain, networks, network, activity, eeg, dynamics, temporal, visual, neurons	2607.28068, 2603.10489, 2604.23525	q-bio.NC (44%)	mixed
+4	919	647	144	128	protein, molecular, proteins, drug, binding, prediction, sequence, design, molecules, structures	2605.26192, 2502.18875, 2501.06371	q-bio.BM (52%)	

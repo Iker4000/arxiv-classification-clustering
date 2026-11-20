@@ -1,0 +1,45 @@
+experiment_id	task	normalization	representation	method	hyperparameters	dev_metric	selected
+C01	classification	tokenization	tfidf-unigram	MultinomialNB	alpha=0.1	macro-F1=0.8064	no
+C02	classification	tokenization	tfidf-unigram	MultinomialNB	alpha=3.1	macro-F1=0.2915	no
+C03	classification	tokenization	tfidf-unigram	MultinomialNB	alpha=6.1	macro-F1=0.2037	no
+C04	classification	tokenization	tfidf-unigram	MultinomialNB	alpha=9.1	macro-F1=0.1479	no
+C05	classification	tokenization-stopword	tfidf-unigram	MultinomialNB	alpha=0.1	macro-F1=0.8057	no
+C06	classification	tokenization-lemmatization	tfidf-unigram	MultinomialNB	alpha=0.1	macro-F1=0.7956	no
+C07	classification	tokenization	tfidf-bigram	MultinomialNB	alpha=0.1	macro-F1=0.6811	no
+C08	classification	tokenization	tfidf-trigram	MultinomialNB	alpha=0.1	macro-F1=0.6163	no
+C09	classification	tokenization	frequency-unigram	MultinomialNB	alpha=0.1	macro-F1=0.8242	no
+C10	classification	tokenization	frequency-bigram	MultinomialNB	alpha=0.1	macro-F1=0.8272	no
+C11	classification	tokenization	frequency-trigram	MultinomialNB	alpha=0.1	macro-F1=0.8241	no
+C12	classification	tokenization	binary-unigram	MultinomialNB	alpha=0.1	macro-F1=0.8170	no
+C13	classification	tokenization	binary-bigram	MultinomialNB	alpha=0.1	macro-F1=0.8214	no
+C14	classification	tokenization	binary-trigram	MultinomialNB	alpha=0.1	macro-F1=0.8265	no
+C15	classification	tokenization	tfidf-unigram	LogisticRegression	C=1.0; class_weight=none	macro-F1=0.7912	no
+C16	classification	tokenization	tfidf-unigram	LogisticRegression	C=0.1; class_weight=none	macro-F1=0.5918	no
+C17	classification	tokenization	tfidf-unigram	LogisticRegression	C=10.0; class_weight=none	macro-F1=0.8215	no
+C18	classification	tokenization	tfidf-unigram	LogisticRegression	C=100.0; class_weight=none	macro-F1=0.8097	no
+C19	classification	tokenization	tfidf-unigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.8262	no
+C20	classification	tokenization-stopword	tfidf-unigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.8232	no
+C21	classification	tokenization-lemmatization	tfidf-unigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.8161	no
+C22	classification	tokenization	tfidf-bigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.8306	yes
+C23	classification	tokenization	tfidf-trigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.8200	no
+C24	classification	tokenization	frequency-unigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.7842	no
+C25	classification	tokenization	frequency-bigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.7888	no
+C26	classification	tokenization	frequency-trigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.7835	no
+C27	classification	tokenization	binary-unigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.7985	no
+C28	classification	tokenization	binary-bigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.8096	no
+C29	classification	tokenization	binary-trigram	LogisticRegression	C=10.0; class_weight=balanced	macro-F1=0.7876	no
+C30	classification	tokenization	tfidf-unigram	SVC	C=1.0; class_weight=none	macro-F1=0.8120	no
+C31	classification	tokenization	tfidf-unigram	SVC	C=0.1; class_weight=none	macro-F1=0.4168	no
+C32	classification	tokenization	tfidf-unigram	SVC	C=10.0; class_weight=none	macro-F1=0.7940	no
+C33	classification	tokenization	tfidf-unigram	SVC	C=100.0; class_weight=none	macro-F1=0.7940	no
+C34	classification	tokenization	tfidf-unigram	SVC	C=1.0; class_weight=balanced	macro-F1=0.8107	no
+C35	classification	tokenization-stopword	tfidf-unigram	SVC	C=1.0; class_weight=none	macro-F1=0.8150	no
+C36	classification	tokenization-stopword-lemmatization	tfidf-unigram	SVC	C=1.0; class_weight=none	macro-F1=0.8140	no
+C37	classification	tokenization-stopword	tfidf-bigram	SVC	C=1.0; class_weight=none	macro-F1=0.8200	no
+C38	classification	tokenization-stopword	tfidf-trigram	SVC	C=1.0; class_weight=none	macro-F1=0.8086	no
+C39	classification	tokenization-stopword	frequency-unigram	SVC	C=1.0; class_weight=none	macro-F1=0.7845	no
+C40	classification	tokenization-stopword	frequency-bigram	SVC	C=1.0; class_weight=none	macro-F1=0.7998	no
+C41	classification	tokenization-stopword	frequency-trigram	SVC	C=1.0; class_weight=none	macro-F1=0.7899	no
+C42	classification	tokenization-stopword	binary-unigram	SVC	C=1.0; class_weight=none	macro-F1=0.7866	no
+C43	classification	tokenization-stopword	binary-bigram	SVC	C=1.0; class_weight=none	macro-F1=0.8019	no
+C44	classification	tokenization-stopword	binary-trigram	SVC	C=1.0; class_weight=none	macro-F1=0.7880	no

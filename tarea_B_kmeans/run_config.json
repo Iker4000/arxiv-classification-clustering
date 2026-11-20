@@ -1,0 +1,156 @@
+{
+  "environment": {
+    "python": "3.13.16",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "scikit_learn": "1.6.1",
+    "joblib": "1.6.0",
+    "matplotlib": "3.10.0",
+    "seed": 0
+  },
+  "seed": 0,
+  "source": "text",
+  "n_docs": 6000,
+  "split_sizes": {
+    "train": 4200,
+    "dev": 900,
+    "test": 900
+  },
+  "selected": {
+    "config": {
+      "prep": "P1_clean_stop",
+      "rep": "tfidf",
+      "ngram": [
+        1,
+        2
+      ],
+      "svd": 100
+    },
+    "kmeans": {
+      "init": "k-means++",
+      "n_init": 20,
+      "max_iter": 100
+    },
+    "k": 5,
+    "refit_train_dev": false
+  },
+  "final_metrics": {
+    "train": {
+      "silhouette": 0.043805933647476335,
+      "ari_train": 0.29963428793395636,
+      "nmi_train": 0.4067913055954734
+    },
+    "dev": {
+      "silhouette": 0.06579486629079738,
+      "ari_dev": 0.3408788585326782,
+      "nmi_dev": 0.45960808894086824
+    },
+    "test": {
+      "silhouette": 0.06467780952654772,
+      "ari_test": 0.31053381344193276,
+      "nmi_test": 0.45241822604147985
+    }
+  },
+  "cfg": {
+    "UPLOAD": false,
+    "INPUT_DIR": "/content/scientific_raw_corpus.tsv",
+    "DATA_PATH": "scientific_raw_corpus.tsv",
+    "MATRIX_PATH": null,
+    "VECTORIZER_PATH": null,
+    "IDS_PATH": null,
+    "FEATURES_PATH": null,
+    "COLUMNS": {
+      "id": null,
+      "title": null,
+      "abstract": null,
+      "text": null,
+      "label": null,
+      "categories": null,
+      "split": null
+    },
+    "TEXT_ALREADY_NORMALIZED": false,
+    "PRETRAINED_VECTORIZER_MODE": "params",
+    "LABEL_LEVEL": "full",
+    "DEV_SIZE": 0.15,
+    "TEST_SIZE": 0.15,
+    "PREPS": [
+      "P0_baseline",
+      "P1_clean_stop",
+      "P2_clean_stop_lemma"
+    ],
+    "REPRS": [
+      "binary",
+      "count",
+      "tfidf"
+    ],
+    "NGRAMS": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "SVD_DIMS": [
+      null,
+      100
+    ],
+    "VEC": {
+      "min_df": 2,
+      "max_df": 0.95,
+      "max_features": 30000
+    },
+    "K_RANGE": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "SWEEP_N_INIT": 3,
+    "SIL_SAMPLE": 5000,
+    "MAX_FITS_WARNING": 600,
+    "K_SELECT_MIN": 4,
+    "K_FINAL": null,
+    "STABILITY_SEEDS": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "KMEANS_GRID": {
+      "init": [
+        "k-means++",
+        "random"
+      ],
+      "n_init": [
+        1,
+        10,
+        20
+      ],
+      "max_iter": [
+        100,
+        300
+      ]
+    },
+    "TOP_TERMS": 10,
+    "TOP_TERMS_MODE": "distinctive",
+    "N_REP_DOCS": 3,
+    "TINY_FRAC": 0.02,
+    "OVERSIZE_FACTOR": 2.5,
+    "REFIT_ON_TRAIN_DEV": false,
+    "QUICK": false
+  }
+}

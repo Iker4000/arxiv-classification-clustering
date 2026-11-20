@@ -1,0 +1,2658 @@
+experiment_id	model	document_id	gold_label	predicted_label	split
+C10	MultinomialNB	2507.20304	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2602.00139	General Economics	General Economics	dev
+C10	MultinomialNB	2602.1598	General Economics	General Economics	dev
+C10	MultinomialNB	2607.19562	General Economics	General Economics	dev
+C10	MultinomialNB	2609.40295	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2608.16849	General Economics	General Economics	dev
+C10	MultinomialNB	2610.04399	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.36239	Computation and Language	Neurons and Cognition	dev
+C10	MultinomialNB	2602.18787	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.30269	General Economics	General Economics	dev
+C10	MultinomialNB	2610.04766	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.00526	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.0504	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.00707	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05031	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2608.10394	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2602.19798	General Economics	General Economics	dev
+C10	MultinomialNB	2610.00321	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2608.1209	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2604.22275	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2607.23325	General Economics	General Economics	dev
+C10	MultinomialNB	2607.04345	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.07997	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2608.17759	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.21367	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.07754	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2602.18637	Machine Learning	Neurons and Cognition	dev
+C10	MultinomialNB	2609.18976	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2610.07559	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.08604	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2604.18031	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2609.16217	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.08669	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.07186	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2608.03153	General Economics	General Economics	dev
+C10	MultinomialNB	2605.13222	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2603.20469	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2505.04823	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2608.10595	Biomolecules	Machine Learning	dev
+C10	MultinomialNB	2610.05998	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2503.00165	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.38025	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2506.19862	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.03223	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2606.07567	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.18994	General Economics	General Economics	dev
+C10	MultinomialNB	2609.36744	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.39884	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2512.17858	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.05346	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2602.07327	General Economics	General Economics	dev
+C10	MultinomialNB	2610.03112	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.10947	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2606.02362	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2608.14326	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.07874	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2609.12149	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.06708	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2502.16378	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2603.03476	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2608.07251	General Economics	Computation and Language	dev
+C10	MultinomialNB	2607.13002	General Economics	General Economics	dev
+C10	MultinomialNB	2608.07536	General Economics	General Economics	dev
+C10	MultinomialNB	2505.18966	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2604.23566	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.27584	General Economics	General Economics	dev
+C10	MultinomialNB	2604.02842	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.34491	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06116	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2605.15644	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.29537	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.39932	General Economics	General Economics	dev
+C10	MultinomialNB	2505.24394	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2603.25444	Neurons and Cognition	Machine Learning	dev
+C10	MultinomialNB	2512.07991	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2604.25415	Neurons and Cognition	Computation and Language	dev
+C10	MultinomialNB	2509.02196	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.06822	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05591	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2608.0058	General Economics	General Economics	dev
+C10	MultinomialNB	2609.35609	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.04241	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.35376	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2502.00647	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2507.0267	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2609.35074	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.04976	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06468	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2605.24524	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2511.16958	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.01821	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2603.18076	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.26966	General Economics	General Economics	dev
+C10	MultinomialNB	2610.06257	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2603.28951	General Economics	General Economics	dev
+C10	MultinomialNB	2610.07628	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2608.01591	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2606.21785	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.28549	General Economics	General Economics	dev
+C10	MultinomialNB	2605.21009	General Economics	General Economics	dev
+C10	MultinomialNB	2603.17034	General Economics	General Economics	dev
+C10	MultinomialNB	2610.04025	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2603.08679	Machine Learning	Theoretical Economics	dev
+C10	MultinomialNB	2610.0204	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.37782	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2603.12417	General Economics	General Economics	dev
+C10	MultinomialNB	2610.01627	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2603.09539	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.0962	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.05382	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2508.18211	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2601.20238	General Economics	General Economics	dev
+C10	MultinomialNB	2610.00316	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.06285	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.04461	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.34838	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.36885	Biomolecules	Machine Learning	dev
+C10	MultinomialNB	2609.3465	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06243	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.39972	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2601.12424	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2608.05882	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.28675	General Economics	General Economics	dev
+C10	MultinomialNB	2602.15246	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.04413	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.04973	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.37127	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2602.12392	General Economics	General Economics	dev
+C10	MultinomialNB	2608.00835	Machine Learning	Neurons and Cognition	dev
+C10	MultinomialNB	2603.21407	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2606.02591	Neurons and Cognition	General Economics	dev
+C10	MultinomialNB	2610.04547	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2602.20946	General Economics	General Economics	dev
+C10	MultinomialNB	2601.15494	General Economics	General Economics	dev
+C10	MultinomialNB	2511.23374	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2503.17007	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.06851	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2608.07298	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2503.03503	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2602.06672	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.08559	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2506.13395	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.05189	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2608.23369	General Economics	General Economics	dev
+C10	MultinomialNB	2602.08134	General Economics	General Economics	dev
+C10	MultinomialNB	2603.29727	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.05635	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.08413	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2601.10218	General Economics	General Economics	dev
+C10	MultinomialNB	2602.16973	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.06286	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.21324	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.00574	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06988	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2606.28295	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.04264	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2604.24344	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2601.13693	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.04195	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2603.25086	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.01046	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2603.27868	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.38503	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2609.40103	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2601.15313	Neurons and Cognition	Computation and Language	dev
+C10	MultinomialNB	2604.01066	General Economics	General Economics	dev
+C10	MultinomialNB	2607.14086	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2605.00746	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.07834	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2604.19178	General Economics	General Economics	dev
+C10	MultinomialNB	2502.09372	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2607.10435	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2604.22895	General Economics	General Economics	dev
+C10	MultinomialNB	2606.21818	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2607.23313	General Economics	General Economics	dev
+C10	MultinomialNB	2610.08287	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2603.20617	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2610.0683	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2509.06271	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2601.15771	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2603.14758	General Economics	General Economics	dev
+C10	MultinomialNB	2607.18969	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.07115	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2608.24894	General Economics	General Economics	dev
+C10	MultinomialNB	2502.11001	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.39425	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2604.03021	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2608.18604	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.16827	General Economics	General Economics	dev
+C10	MultinomialNB	2608.00045	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2605.10178	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.25481	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2606.23463	General Economics	Machine Learning	dev
+C10	MultinomialNB	2512.10203	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.04898	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.28562	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2606.01234	General Economics	General Economics	dev
+C10	MultinomialNB	2609.21335	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.04882	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05265	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.0156	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2606.06651	General Economics	General Economics	dev
+C10	MultinomialNB	2606.27783	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2605.02745	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2607.1914	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2606.12893	General Economics	General Economics	dev
+C10	MultinomialNB	2610.0149	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2603.19349	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2508.10262	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2604.15264	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2601.20724	General Economics	General Economics	dev
+C10	MultinomialNB	2610.07406	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05968	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05127	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.0525	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2512.13385	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2608.27538	General Economics	General Economics	dev
+C10	MultinomialNB	2609.05454	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.25088	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2605.00778	Machine Learning	Neurons and Cognition	dev
+C10	MultinomialNB	2412.20011	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.39496	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2607.1195	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2506.19865	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2605.15243	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2607.26666	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.0791	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2605.12536	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2604.06395	Machine Learning	Neurons and Cognition	dev
+C10	MultinomialNB	2602.21758	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2605.21358	General Economics	General Economics	dev
+C10	MultinomialNB	2604.04025	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2603.07217	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2604.0934	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.04443	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2605.1006	General Economics	General Economics	dev
+C10	MultinomialNB	2602.1882	General Economics	General Economics	dev
+C10	MultinomialNB	2602.08631	General Economics	General Economics	dev
+C10	MultinomialNB	2604.15363	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.34985	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2506.09336	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2607.25942	Theoretical Economics	Neurons and Cognition	dev
+C10	MultinomialNB	2512.00384	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2609.36451	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.03735	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2606.02099	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2606.23861	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2606.1226	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2609.3882	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.06576	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2603.26707	Computation and Language	General Economics	dev
+C10	MultinomialNB	2606.04142	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2412.20038	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2602.21971	General Economics	General Economics	dev
+C10	MultinomialNB	2605.23961	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.01297	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.05804	General Economics	General Economics	dev
+C10	MultinomialNB	2512.05833	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.08773	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.0645	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2412.16483	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2606.06424	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2512.00717	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2610.04212	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.0842	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06383	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.01894	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2604.26546	General Economics	General Economics	dev
+C10	MultinomialNB	2609.39077	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.05076	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2510.00774	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2502.06846	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2602.05112	General Economics	General Economics	dev
+C10	MultinomialNB	2510.09372	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2607.17073	General Economics	Machine Learning	dev
+C10	MultinomialNB	2610.08384	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2512.0203	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2603.19881	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2602.21787	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.06134	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.1709	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2512.17169	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2504.0359	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2602.11234	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2503.21233	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2607.04708	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2501.04258	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.15926	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.02353	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2607.05558	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.20152	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.02013	General Economics	General Economics	dev
+C10	MultinomialNB	2610.07706	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2601.11185	General Economics	General Economics	dev
+C10	MultinomialNB	2505.15054	Computation and Language	Biomolecules	dev
+C10	MultinomialNB	2610.08118	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2511.00209	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2508.2135	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2601.11108	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2501.15631	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.0483	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2505.18566	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2602.16584	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.37577	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2511.21476	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2605.01767	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2607.29101	Biomolecules	Machine Learning	dev
+C10	MultinomialNB	2610.00928	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.14496	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.28583	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.27569	General Economics	General Economics	dev
+C10	MultinomialNB	2505.00719	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.03854	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2606.29655	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.32315	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.058	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2609.33057	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.08694	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2508.19632	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.10891	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2606.02937	Neurons and Cognition	Machine Learning	dev
+C10	MultinomialNB	2608.15081	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2606.31271	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.06509	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.31192	Neurons and Cognition	Computation and Language	dev
+C10	MultinomialNB	2507.01073	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2608.11371	General Economics	General Economics	dev
+C10	MultinomialNB	2610.03078	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2603.06557	Machine Learning	Neurons and Cognition	dev
+C10	MultinomialNB	2506.23439	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2603.09637	General Economics	General Economics	dev
+C10	MultinomialNB	2610.04802	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2606.3178	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2509.05302	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.38795	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2601.05206	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2503.09085	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.29905	General Economics	General Economics	dev
+C10	MultinomialNB	2605.23111	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2511.18647	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2606.24319	General Economics	General Economics	dev
+C10	MultinomialNB	2610.07212	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2604.14096	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2603.2233	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.07562	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.0323	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.16087	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2602.12811	Computation and Language	Neurons and Cognition	dev
+C10	MultinomialNB	2607.1293	Neurons and Cognition	Machine Learning	dev
+C10	MultinomialNB	2610.04961	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2610.02926	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2602.0324	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.0449	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05834	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2607.09662	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.05098	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.3974	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2603.2819	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2608.00503	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.37494	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.04829	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.36303	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2607.24805	Neurons and Cognition	Machine Learning	dev
+C10	MultinomialNB	2605.16613	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.13613	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.07778	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.04988	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.04967	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2608.10274	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2507.19805	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.40198	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.25214	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2605.19333	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.16203	General Economics	General Economics	dev
+C10	MultinomialNB	2610.07973	Machine Learning	Theoretical Economics	dev
+C10	MultinomialNB	2607.04956	General Economics	General Economics	dev
+C10	MultinomialNB	2510.24732	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2512.10109	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.03002	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2601.11196	General Economics	General Economics	dev
+C10	MultinomialNB	2605.05259	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2508.17815	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2610.0065	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2609.35685	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.36209	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2609.05115	General Economics	General Economics	dev
+C10	MultinomialNB	2604.23562	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.04907	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06902	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.03662	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.01108	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.05894	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.02404	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2505.0885	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2506.06294	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2603.01387	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2509.03487	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2610.05878	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2606.1373	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2507.06366	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2608.06149	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.39608	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2604.19044	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.0546	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2505.17914	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2603.0083	General Economics	General Economics	dev
+C10	MultinomialNB	2605.31296	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.06647	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2511.06356	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2609.07624	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2604.01416	General Economics	Computation and Language	dev
+C10	MultinomialNB	2610.08026	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.37169	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2509.22285	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2603.15852	General Economics	General Economics	dev
+C10	MultinomialNB	2606.11566	General Economics	General Economics	dev
+C10	MultinomialNB	2609.37351	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2512.10418	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.05898	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.03494	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.02887	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2606.15545	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2605.042	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.07871	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.39027	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2503.08674	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2607.20323	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.02122	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.36097	Neurons and Cognition	Machine Learning	dev
+C10	MultinomialNB	2608.25909	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2603.26702	General Economics	General Economics	dev
+C10	MultinomialNB	2511.19184	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2602.08429	General Economics	General Economics	dev
+C10	MultinomialNB	2605.14575	General Economics	General Economics	dev
+C10	MultinomialNB	2610.06446	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2602.10756	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.07335	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2511.00723	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.06105	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2609.3848	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2607.00397	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.36414	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2511.13736	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.20421	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2602.12695	General Economics	General Economics	dev
+C10	MultinomialNB	2609.39975	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.05745	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05039	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2601.06405	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2512.24777	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.30081	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2608.13244	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2512.08136	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.25115	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2608.24468	General Economics	General Economics	dev
+C10	MultinomialNB	2602.11442	General Economics	General Economics	dev
+C10	MultinomialNB	2608.04332	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.08479	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2603.25713	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2602.0292	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.26264	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.04158	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.14251	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2604.18108	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2502.02371	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.06903	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2510.20792	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2503.08179	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2603.2372	General Economics	General Economics	dev
+C10	MultinomialNB	2605.20679	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.40235	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2602.03172	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06273	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2604.2223	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2603.20476	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2607.24807	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2604.15825	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.36218	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.07377	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2607.12414	General Economics	General Economics	dev
+C10	MultinomialNB	2512.08876	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.36131	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2503.193	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2601.20035	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2608.08395	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2601.20447	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2607.24834	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.31916	General Economics	General Economics	dev
+C10	MultinomialNB	2606.10222	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2604.10606	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2508.21076	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.23745	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2605.04336	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2603.11222	General Economics	General Economics	dev
+C10	MultinomialNB	2601.12054	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.3836	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06065	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.04303	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.06636	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2605.18557	Machine Learning	Neurons and Cognition	dev
+C10	MultinomialNB	2607.12771	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2610.06012	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.10029	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.01493	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.06695	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2609.37879	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2610.0277	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2511.21147	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2606.10127	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2603.06118	General Economics	General Economics	dev
+C10	MultinomialNB	2609.26964	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.36457	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.02736	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2507.07367	Biomolecules	Machine Learning	dev
+C10	MultinomialNB	2610.02022	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.19888	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.38832	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.05978	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2608.24928	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2512.10112	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2602.00934	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2602.23098	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.03679	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2608.29506	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2604.0605	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2610.05278	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.34769	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.37868	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2605.30552	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2605.00014	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.05632	Machine Learning	Neurons and Cognition	dev
+C10	MultinomialNB	2607.28371	General Economics	General Economics	dev
+C10	MultinomialNB	2502.16446	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2610.01218	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.0595	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2510.1659	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05074	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.39929	Machine Learning	Computation and Language	dev
+C10	MultinomialNB	2608.23415	Biomolecules	Neurons and Cognition	dev
+C10	MultinomialNB	2604.26902	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2604.13545	General Economics	General Economics	dev
+C10	MultinomialNB	2610.00997	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.06282	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2603.04298	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.04795	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.21163	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.28693	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.04956	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2606.17373	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.07362	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2605.19816	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2504.01593	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2610.06572	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.39807	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2608.02817	General Economics	General Economics	dev
+C10	MultinomialNB	2610.05974	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2603.06816	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.35426	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2504.05564	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2505.18392	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2605.0185	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.20176	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2606.10092	Machine Learning	Theoretical Economics	dev
+C10	MultinomialNB	2601.10664	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2511.17251	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.03933	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2608.05985	Neurons and Cognition	Machine Learning	dev
+C10	MultinomialNB	2610.05371	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2601.12783	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2604.04033	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2505.15093	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2605.02354	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2601.15319	Neurons and Cognition	Computation and Language	dev
+C10	MultinomialNB	2610.03195	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2609.39927	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2610.02829	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2509.23254	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2601.20912	General Economics	General Economics	dev
+C10	MultinomialNB	2605.00692	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2509.14029	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.07389	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.01938	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2606.02306	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2610.06952	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2607.28222	General Economics	General Economics	dev
+C10	MultinomialNB	2509.16877	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2609.25026	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2507.02025	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.20041	General Economics	Computation and Language	dev
+C10	MultinomialNB	2609.11989	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.34366	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.28265	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.16862	General Economics	General Economics	dev
+C10	MultinomialNB	2610.08745	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2609.02739	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.07981	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05366	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.06918	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2506.13344	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.03102	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.06404	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2608.15193	Neurons and Cognition	Computation and Language	dev
+C10	MultinomialNB	2609.36246	Computation and Language	Machine Learning	dev
+C10	MultinomialNB	2606.1007	General Economics	General Economics	dev
+C10	MultinomialNB	2610.00958	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.16146	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2610.03027	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2606.1729	General Economics	General Economics	dev
+C10	MultinomialNB	2607.26559	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2608.01773	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2607.1579	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2608.06623	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2603.24615	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.32859	General Economics	General Economics	dev
+C10	MultinomialNB	2610.0863	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.22988	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2604.08604	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2609.35083	Biomolecules	Machine Learning	dev
+C10	MultinomialNB	2602.09237	General Economics	General Economics	dev
+C10	MultinomialNB	2506.15309	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2606.10681	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.22523	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2603.16202	Theoretical Economics	General Economics	dev
+C10	MultinomialNB	2610.0545	Machine Learning	Theoretical Economics	dev
+C10	MultinomialNB	2601.19329	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2608.028	General Economics	Theoretical Economics	dev
+C10	MultinomialNB	2603.04149	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2608.01434	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2602.02284	General Economics	General Economics	dev
+C10	MultinomialNB	2610.02999	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2610.03454	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.08661	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.09083	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.08735	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2511.15686	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.07847	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.09029	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.03329	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2608.0831	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2605.08989	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.39346	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2606.00989	General Economics	General Economics	dev
+C10	MultinomialNB	2609.39446	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2605.21356	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2602.1316	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2606.31955	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2609.02357	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.04074	Computation and Language	Computation and Language	dev
+C10	MultinomialNB	2608.09409	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2607.12909	Neurons and Cognition	Machine Learning	dev
+C10	MultinomialNB	2609.35338	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.05401	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2607.08855	Neurons and Cognition	Neurons and Cognition	dev
+C10	MultinomialNB	2505.07821	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2507.10839	Biomolecules	Biomolecules	dev
+C10	MultinomialNB	2602.21838	General Economics	Machine Learning	dev
+C10	MultinomialNB	2607.29572	General Economics	General Economics	dev
+C10	MultinomialNB	2603.17947	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2604.26634	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2507.02724	Machine Learning	Biomolecules	dev
+C10	MultinomialNB	2603.0928	Theoretical Economics	Theoretical Economics	dev
+C10	MultinomialNB	2610.08403	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2506.22901	Machine Learning	Machine Learning	dev
+C10	MultinomialNB	2610.04786	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2507.20304	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2602.00139	General Economics	General Economics	dev
+C22	LogisticRegression	2602.1598	General Economics	General Economics	dev
+C22	LogisticRegression	2607.19562	General Economics	General Economics	dev
+C22	LogisticRegression	2609.40295	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2608.16849	General Economics	General Economics	dev
+C22	LogisticRegression	2610.04399	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.36239	Computation and Language	Neurons and Cognition	dev
+C22	LogisticRegression	2602.18787	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.30269	General Economics	General Economics	dev
+C22	LogisticRegression	2610.04766	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.00526	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.0504	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.00707	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05031	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2608.10394	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2602.19798	General Economics	General Economics	dev
+C22	LogisticRegression	2610.00321	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2608.1209	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2604.22275	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2607.23325	General Economics	General Economics	dev
+C22	LogisticRegression	2607.04345	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.07997	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2608.17759	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.21367	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2610.07754	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2602.18637	Machine Learning	Neurons and Cognition	dev
+C22	LogisticRegression	2609.18976	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2610.07559	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.08604	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2604.18031	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.16217	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.08669	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.07186	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2608.03153	General Economics	General Economics	dev
+C22	LogisticRegression	2605.13222	Theoretical Economics	Machine Learning	dev
+C22	LogisticRegression	2603.20469	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2505.04823	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2608.10595	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2610.05998	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2503.00165	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.38025	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2506.19862	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2610.03223	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2606.07567	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2606.18994	General Economics	General Economics	dev
+C22	LogisticRegression	2609.36744	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.39884	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2512.17858	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.05346	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2602.07327	General Economics	General Economics	dev
+C22	LogisticRegression	2610.03112	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.10947	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2606.02362	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2608.14326	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.07874	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.12149	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.06708	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2502.16378	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2603.03476	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2608.07251	General Economics	Computation and Language	dev
+C22	LogisticRegression	2607.13002	General Economics	General Economics	dev
+C22	LogisticRegression	2608.07536	General Economics	General Economics	dev
+C22	LogisticRegression	2505.18966	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2604.23566	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.27584	General Economics	General Economics	dev
+C22	LogisticRegression	2604.02842	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.34491	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06116	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2605.15644	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.29537	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.39932	General Economics	General Economics	dev
+C22	LogisticRegression	2505.24394	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2603.25444	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2512.07991	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2604.25415	Neurons and Cognition	Computation and Language	dev
+C22	LogisticRegression	2509.02196	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2610.06822	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05591	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2608.0058	General Economics	General Economics	dev
+C22	LogisticRegression	2609.35609	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.04241	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.35376	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2502.00647	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2507.0267	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2609.35074	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.04976	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06468	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2605.24524	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2511.16958	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2610.01821	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2603.18076	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2606.26966	General Economics	General Economics	dev
+C22	LogisticRegression	2610.06257	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2603.28951	General Economics	General Economics	dev
+C22	LogisticRegression	2610.07628	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2608.01591	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2606.21785	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.28549	General Economics	General Economics	dev
+C22	LogisticRegression	2605.21009	General Economics	General Economics	dev
+C22	LogisticRegression	2603.17034	General Economics	General Economics	dev
+C22	LogisticRegression	2610.04025	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2603.08679	Machine Learning	Theoretical Economics	dev
+C22	LogisticRegression	2610.0204	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.37782	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2603.12417	General Economics	General Economics	dev
+C22	LogisticRegression	2610.01627	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2603.09539	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.0962	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.05382	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2508.18211	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2601.20238	General Economics	General Economics	dev
+C22	LogisticRegression	2610.00316	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.06285	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.04461	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.34838	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.36885	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.3465	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06243	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.39972	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2601.12424	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2608.05882	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.28675	General Economics	General Economics	dev
+C22	LogisticRegression	2602.15246	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.04413	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.04973	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.37127	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2602.12392	General Economics	General Economics	dev
+C22	LogisticRegression	2608.00835	Machine Learning	Neurons and Cognition	dev
+C22	LogisticRegression	2603.21407	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2606.02591	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.04547	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2602.20946	General Economics	General Economics	dev
+C22	LogisticRegression	2601.15494	General Economics	General Economics	dev
+C22	LogisticRegression	2511.23374	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2503.17007	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2610.06851	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2608.07298	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2503.03503	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2602.06672	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.08559	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2506.13395	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2606.05189	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2608.23369	General Economics	General Economics	dev
+C22	LogisticRegression	2602.08134	General Economics	General Economics	dev
+C22	LogisticRegression	2603.29727	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.05635	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.08413	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2601.10218	General Economics	General Economics	dev
+C22	LogisticRegression	2602.16973	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.06286	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.21324	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.00574	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06988	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2606.28295	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.04264	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2604.24344	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2601.13693	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.04195	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2603.25086	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.01046	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2603.27868	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2609.38503	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2609.40103	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2601.15313	Neurons and Cognition	Computation and Language	dev
+C22	LogisticRegression	2604.01066	General Economics	General Economics	dev
+C22	LogisticRegression	2607.14086	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2605.00746	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.07834	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2604.19178	General Economics	General Economics	dev
+C22	LogisticRegression	2502.09372	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2607.10435	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2604.22895	General Economics	General Economics	dev
+C22	LogisticRegression	2606.21818	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2607.23313	General Economics	Computation and Language	dev
+C22	LogisticRegression	2610.08287	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2603.20617	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2610.0683	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2509.06271	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2601.15771	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2603.14758	General Economics	General Economics	dev
+C22	LogisticRegression	2607.18969	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.07115	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2608.24894	General Economics	General Economics	dev
+C22	LogisticRegression	2502.11001	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2609.39425	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2604.03021	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2608.18604	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.16827	General Economics	General Economics	dev
+C22	LogisticRegression	2608.00045	Computation and Language	General Economics	dev
+C22	LogisticRegression	2605.10178	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.25481	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2606.23463	General Economics	Machine Learning	dev
+C22	LogisticRegression	2512.10203	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.04898	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.28562	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2606.01234	General Economics	General Economics	dev
+C22	LogisticRegression	2609.21335	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.04882	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05265	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.0156	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2606.06651	General Economics	General Economics	dev
+C22	LogisticRegression	2606.27783	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2605.02745	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2607.1914	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2606.12893	General Economics	General Economics	dev
+C22	LogisticRegression	2610.0149	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2603.19349	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2508.10262	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2604.15264	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2601.20724	General Economics	General Economics	dev
+C22	LogisticRegression	2610.07406	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05968	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05127	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.0525	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2512.13385	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2608.27538	General Economics	General Economics	dev
+C22	LogisticRegression	2609.05454	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.25088	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2605.00778	Machine Learning	Neurons and Cognition	dev
+C22	LogisticRegression	2412.20011	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.39496	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2607.1195	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2506.19865	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2605.15243	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2607.26666	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.0791	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2605.12536	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2604.06395	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2602.21758	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2605.21358	General Economics	General Economics	dev
+C22	LogisticRegression	2604.04025	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2603.07217	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2604.0934	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.04443	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2605.1006	General Economics	General Economics	dev
+C22	LogisticRegression	2602.1882	General Economics	General Economics	dev
+C22	LogisticRegression	2602.08631	General Economics	General Economics	dev
+C22	LogisticRegression	2604.15363	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.34985	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2506.09336	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2607.25942	Theoretical Economics	Neurons and Cognition	dev
+C22	LogisticRegression	2512.00384	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2609.36451	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2610.03735	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2606.02099	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2606.23861	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2606.1226	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2609.3882	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.06576	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2603.26707	Computation and Language	General Economics	dev
+C22	LogisticRegression	2606.04142	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2412.20038	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2602.21971	General Economics	General Economics	dev
+C22	LogisticRegression	2605.23961	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.01297	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2609.05804	General Economics	General Economics	dev
+C22	LogisticRegression	2512.05833	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.08773	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.0645	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2412.16483	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2606.06424	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2512.00717	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2610.04212	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.0842	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06383	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2610.01894	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2604.26546	General Economics	General Economics	dev
+C22	LogisticRegression	2609.39077	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.05076	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2510.00774	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2502.06846	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2602.05112	General Economics	General Economics	dev
+C22	LogisticRegression	2510.09372	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2607.17073	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.08384	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2512.0203	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2603.19881	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2602.21787	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.06134	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.1709	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2512.17169	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2504.0359	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2602.11234	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2503.21233	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2607.04708	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2501.04258	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.15926	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.02353	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2607.05558	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.20152	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.02013	General Economics	General Economics	dev
+C22	LogisticRegression	2610.07706	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2601.11185	General Economics	General Economics	dev
+C22	LogisticRegression	2505.15054	Computation and Language	Biomolecules	dev
+C22	LogisticRegression	2610.08118	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2511.00209	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2508.2135	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2601.11108	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2501.15631	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2610.0483	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2505.18566	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2602.16584	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.37577	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2511.21476	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2605.01767	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2607.29101	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2610.00928	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.14496	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2606.28583	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.27569	General Economics	General Economics	dev
+C22	LogisticRegression	2505.00719	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2610.03854	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2606.29655	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.32315	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.058	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2609.33057	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.08694	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2508.19632	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2606.10891	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2606.02937	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2608.15081	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2606.31271	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.06509	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.31192	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2507.01073	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2608.11371	General Economics	General Economics	dev
+C22	LogisticRegression	2610.03078	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2603.06557	Machine Learning	Neurons and Cognition	dev
+C22	LogisticRegression	2506.23439	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2603.09637	General Economics	General Economics	dev
+C22	LogisticRegression	2610.04802	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2606.3178	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2509.05302	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.38795	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2601.05206	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2503.09085	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.29905	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.23111	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2511.18647	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2606.24319	General Economics	General Economics	dev
+C22	LogisticRegression	2610.07212	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2604.14096	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2603.2233	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2606.07562	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.0323	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.16087	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2602.12811	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2607.1293	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.04961	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2610.02926	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2602.0324	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.0449	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05834	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2607.09662	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.05098	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.3974	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2603.2819	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2608.00503	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.37494	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.04829	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.36303	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2607.24805	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2605.16613	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.13613	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.07778	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.04988	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.04967	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2608.10274	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2507.19805	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.40198	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.25214	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2605.19333	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.16203	General Economics	General Economics	dev
+C22	LogisticRegression	2610.07973	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2607.04956	General Economics	General Economics	dev
+C22	LogisticRegression	2510.24732	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2512.10109	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.03002	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2601.11196	General Economics	General Economics	dev
+C22	LogisticRegression	2605.05259	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2508.17815	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2610.0065	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.35685	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.36209	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.05115	General Economics	General Economics	dev
+C22	LogisticRegression	2604.23562	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.04907	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06902	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.03662	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.01108	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.05894	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.02404	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2505.0885	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2506.06294	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2603.01387	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2509.03487	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2610.05878	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2606.1373	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2507.06366	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2608.06149	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2609.39608	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2604.19044	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.0546	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2505.17914	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2603.0083	General Economics	General Economics	dev
+C22	LogisticRegression	2605.31296	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2610.06647	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2511.06356	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.07624	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2604.01416	General Economics	General Economics	dev
+C22	LogisticRegression	2610.08026	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.37169	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2509.22285	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2603.15852	General Economics	General Economics	dev
+C22	LogisticRegression	2606.11566	General Economics	General Economics	dev
+C22	LogisticRegression	2609.37351	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2512.10418	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.05898	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.03494	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.02887	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2606.15545	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2605.042	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.07871	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.39027	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2503.08674	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2607.20323	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.02122	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.36097	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2608.25909	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2603.26702	General Economics	General Economics	dev
+C22	LogisticRegression	2511.19184	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2602.08429	General Economics	General Economics	dev
+C22	LogisticRegression	2605.14575	General Economics	General Economics	dev
+C22	LogisticRegression	2610.06446	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2602.10756	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.07335	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2511.00723	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.06105	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.3848	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2607.00397	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.36414	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2511.13736	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.20421	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2602.12695	General Economics	General Economics	dev
+C22	LogisticRegression	2609.39975	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.05745	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05039	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2601.06405	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2512.24777	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.30081	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2608.13244	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2512.08136	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.25115	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2608.24468	General Economics	General Economics	dev
+C22	LogisticRegression	2602.11442	General Economics	General Economics	dev
+C22	LogisticRegression	2608.04332	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.08479	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2603.25713	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2602.0292	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.26264	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.04158	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.14251	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2604.18108	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2502.02371	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2610.06903	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2510.20792	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2503.08179	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2603.2372	General Economics	General Economics	dev
+C22	LogisticRegression	2605.20679	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.40235	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2602.03172	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06273	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2604.2223	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2603.20476	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2607.24807	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2604.15825	General Economics	General Economics	dev
+C22	LogisticRegression	2609.36218	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.07377	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2607.12414	General Economics	General Economics	dev
+C22	LogisticRegression	2512.08876	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.36131	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2503.193	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2601.20035	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2608.08395	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2601.20447	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2607.24834	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.31916	General Economics	General Economics	dev
+C22	LogisticRegression	2606.10222	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2604.10606	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2508.21076	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2606.23745	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2605.04336	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2603.11222	General Economics	General Economics	dev
+C22	LogisticRegression	2601.12054	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.3836	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06065	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.04303	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.06636	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2605.18557	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2607.12771	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2610.06012	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.10029	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.01493	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.06695	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.37879	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.0277	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2511.21147	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2606.10127	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2603.06118	General Economics	General Economics	dev
+C22	LogisticRegression	2609.26964	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.36457	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.02736	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2507.07367	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2610.02022	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.19888	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.38832	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2610.05978	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2608.24928	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2512.10112	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2602.00934	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2602.23098	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.03679	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2608.29506	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2604.0605	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.05278	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.34769	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.37868	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2605.30552	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2605.00014	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.05632	Machine Learning	Neurons and Cognition	dev
+C22	LogisticRegression	2607.28371	General Economics	General Economics	dev
+C22	LogisticRegression	2502.16446	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2610.01218	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.0595	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2510.1659	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05074	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.39929	Machine Learning	Computation and Language	dev
+C22	LogisticRegression	2608.23415	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2604.26902	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2604.13545	General Economics	General Economics	dev
+C22	LogisticRegression	2610.00997	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.06282	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2603.04298	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.04795	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.21163	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.28693	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.04956	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2606.17373	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.07362	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2605.19816	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2504.01593	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2610.06572	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.39807	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2608.02817	General Economics	General Economics	dev
+C22	LogisticRegression	2610.05974	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2603.06816	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.35426	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2504.05564	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2505.18392	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2605.0185	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.20176	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2606.10092	Machine Learning	Theoretical Economics	dev
+C22	LogisticRegression	2601.10664	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2511.17251	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.03933	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2608.05985	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2610.05371	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2601.12783	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2604.04033	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2505.15093	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2605.02354	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2601.15319	Neurons and Cognition	Computation and Language	dev
+C22	LogisticRegression	2610.03195	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2609.39927	Computation and Language	Machine Learning	dev
+C22	LogisticRegression	2610.02829	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2509.23254	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2601.20912	General Economics	General Economics	dev
+C22	LogisticRegression	2605.00692	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2509.14029	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.07389	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.01938	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2606.02306	Theoretical Economics	General Economics	dev
+C22	LogisticRegression	2610.06952	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2607.28222	General Economics	General Economics	dev
+C22	LogisticRegression	2509.16877	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2609.25026	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2507.02025	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2606.20041	General Economics	Computation and Language	dev
+C22	LogisticRegression	2609.11989	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.34366	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.28265	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.16862	General Economics	General Economics	dev
+C22	LogisticRegression	2610.08745	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2609.02739	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.07981	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05366	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.06918	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2506.13344	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.03102	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.06404	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2608.15193	Neurons and Cognition	Computation and Language	dev
+C22	LogisticRegression	2609.36246	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2606.1007	General Economics	General Economics	dev
+C22	LogisticRegression	2610.00958	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.16146	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2610.03027	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2606.1729	General Economics	General Economics	dev
+C22	LogisticRegression	2607.26559	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2608.01773	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2607.1579	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2608.06623	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2603.24615	General Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.32859	General Economics	General Economics	dev
+C22	LogisticRegression	2610.0863	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.22988	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2604.08604	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2609.35083	Biomolecules	Machine Learning	dev
+C22	LogisticRegression	2602.09237	General Economics	General Economics	dev
+C22	LogisticRegression	2506.15309	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2606.10681	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.22523	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2603.16202	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.0545	Machine Learning	Theoretical Economics	dev
+C22	LogisticRegression	2601.19329	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2608.028	General Economics	General Economics	dev
+C22	LogisticRegression	2603.04149	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2608.01434	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2602.02284	General Economics	General Economics	dev
+C22	LogisticRegression	2610.02999	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2610.03454	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.08661	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.09083	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.08735	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2511.15686	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.07847	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.09029	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.03329	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2608.0831	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2605.08989	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.39346	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2606.00989	General Economics	General Economics	dev
+C22	LogisticRegression	2609.39446	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2605.21356	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2602.1316	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2606.31955	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2609.02357	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.04074	Computation and Language	Computation and Language	dev
+C22	LogisticRegression	2608.09409	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2607.12909	Neurons and Cognition	Machine Learning	dev
+C22	LogisticRegression	2609.35338	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.05401	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2607.08855	Neurons and Cognition	Neurons and Cognition	dev
+C22	LogisticRegression	2505.07821	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2507.10839	Biomolecules	Biomolecules	dev
+C22	LogisticRegression	2602.21838	General Economics	Machine Learning	dev
+C22	LogisticRegression	2607.29572	General Economics	General Economics	dev
+C22	LogisticRegression	2603.17947	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2604.26634	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2507.02724	Machine Learning	Biomolecules	dev
+C22	LogisticRegression	2603.0928	Theoretical Economics	Theoretical Economics	dev
+C22	LogisticRegression	2610.08403	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2506.22901	Machine Learning	Machine Learning	dev
+C22	LogisticRegression	2610.04786	Machine Learning	Machine Learning	dev
+C37	SVC	2507.20304	Biomolecules	Biomolecules	dev
+C37	SVC	2602.00139	General Economics	General Economics	dev
+C37	SVC	2602.1598	General Economics	General Economics	dev
+C37	SVC	2607.19562	General Economics	General Economics	dev
+C37	SVC	2609.40295	Computation and Language	Computation and Language	dev
+C37	SVC	2608.16849	General Economics	General Economics	dev
+C37	SVC	2610.04399	Computation and Language	Computation and Language	dev
+C37	SVC	2609.36239	Computation and Language	Neurons and Cognition	dev
+C37	SVC	2602.18787	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.30269	General Economics	General Economics	dev
+C37	SVC	2610.04766	Machine Learning	Machine Learning	dev
+C37	SVC	2610.00526	Computation and Language	Computation and Language	dev
+C37	SVC	2610.0504	Machine Learning	Machine Learning	dev
+C37	SVC	2610.00707	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05031	Computation and Language	Computation and Language	dev
+C37	SVC	2608.10394	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2602.19798	General Economics	General Economics	dev
+C37	SVC	2610.00321	Computation and Language	Computation and Language	dev
+C37	SVC	2608.1209	Machine Learning	Machine Learning	dev
+C37	SVC	2604.22275	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2607.23325	General Economics	General Economics	dev
+C37	SVC	2607.04345	General Economics	Theoretical Economics	dev
+C37	SVC	2610.07997	Machine Learning	Machine Learning	dev
+C37	SVC	2608.17759	Biomolecules	Biomolecules	dev
+C37	SVC	2608.21367	Biomolecules	Biomolecules	dev
+C37	SVC	2610.07754	Machine Learning	Machine Learning	dev
+C37	SVC	2602.18637	Machine Learning	Neurons and Cognition	dev
+C37	SVC	2609.18976	Theoretical Economics	General Economics	dev
+C37	SVC	2610.07559	Machine Learning	Machine Learning	dev
+C37	SVC	2610.08604	Computation and Language	Computation and Language	dev
+C37	SVC	2604.18031	Computation and Language	Biomolecules	dev
+C37	SVC	2609.16217	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.08669	Machine Learning	Machine Learning	dev
+C37	SVC	2610.07186	Computation and Language	Computation and Language	dev
+C37	SVC	2608.03153	General Economics	General Economics	dev
+C37	SVC	2605.13222	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2603.20469	Biomolecules	Biomolecules	dev
+C37	SVC	2505.04823	Machine Learning	Machine Learning	dev
+C37	SVC	2608.10595	Biomolecules	Machine Learning	dev
+C37	SVC	2610.05998	Machine Learning	Biomolecules	dev
+C37	SVC	2503.00165	Biomolecules	Biomolecules	dev
+C37	SVC	2609.38025	Machine Learning	Computation and Language	dev
+C37	SVC	2506.19862	Biomolecules	Machine Learning	dev
+C37	SVC	2610.03223	Machine Learning	Machine Learning	dev
+C37	SVC	2606.07567	Biomolecules	Biomolecules	dev
+C37	SVC	2606.18994	General Economics	General Economics	dev
+C37	SVC	2609.36744	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.39884	Computation and Language	Computation and Language	dev
+C37	SVC	2512.17858	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.05346	Machine Learning	Computation and Language	dev
+C37	SVC	2602.07327	General Economics	General Economics	dev
+C37	SVC	2610.03112	Computation and Language	Computation and Language	dev
+C37	SVC	2605.10947	Machine Learning	Machine Learning	dev
+C37	SVC	2606.02362	General Economics	Theoretical Economics	dev
+C37	SVC	2608.14326	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.07874	Machine Learning	Machine Learning	dev
+C37	SVC	2609.12149	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.06708	Computation and Language	Computation and Language	dev
+C37	SVC	2502.16378	Biomolecules	Biomolecules	dev
+C37	SVC	2603.03476	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2608.07251	General Economics	Computation and Language	dev
+C37	SVC	2607.13002	General Economics	General Economics	dev
+C37	SVC	2608.07536	General Economics	Machine Learning	dev
+C37	SVC	2505.18966	Machine Learning	Biomolecules	dev
+C37	SVC	2604.23566	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.27584	General Economics	General Economics	dev
+C37	SVC	2604.02842	Biomolecules	Biomolecules	dev
+C37	SVC	2609.34491	Machine Learning	Machine Learning	dev
+C37	SVC	2610.06116	Machine Learning	Machine Learning	dev
+C37	SVC	2605.15644	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.29537	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.39932	General Economics	General Economics	dev
+C37	SVC	2505.24394	Biomolecules	Biomolecules	dev
+C37	SVC	2603.25444	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2512.07991	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2604.25415	Neurons and Cognition	General Economics	dev
+C37	SVC	2509.02196	Biomolecules	Machine Learning	dev
+C37	SVC	2610.06822	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05591	Computation and Language	Machine Learning	dev
+C37	SVC	2608.0058	General Economics	General Economics	dev
+C37	SVC	2609.35609	Machine Learning	Machine Learning	dev
+C37	SVC	2610.04241	Machine Learning	Machine Learning	dev
+C37	SVC	2609.35376	Computation and Language	Computation and Language	dev
+C37	SVC	2502.00647	Biomolecules	Biomolecules	dev
+C37	SVC	2507.0267	Machine Learning	Biomolecules	dev
+C37	SVC	2609.35074	Computation and Language	Computation and Language	dev
+C37	SVC	2610.04976	Machine Learning	Computation and Language	dev
+C37	SVC	2610.06468	Machine Learning	Machine Learning	dev
+C37	SVC	2605.24524	Machine Learning	Computation and Language	dev
+C37	SVC	2511.16958	Theoretical Economics	General Economics	dev
+C37	SVC	2610.01821	Machine Learning	Computation and Language	dev
+C37	SVC	2603.18076	Biomolecules	Machine Learning	dev
+C37	SVC	2606.26966	General Economics	General Economics	dev
+C37	SVC	2610.06257	Machine Learning	Machine Learning	dev
+C37	SVC	2603.28951	General Economics	General Economics	dev
+C37	SVC	2610.07628	Machine Learning	Machine Learning	dev
+C37	SVC	2608.01591	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2606.21785	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.28549	General Economics	General Economics	dev
+C37	SVC	2605.21009	General Economics	General Economics	dev
+C37	SVC	2603.17034	General Economics	General Economics	dev
+C37	SVC	2610.04025	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2603.08679	Machine Learning	Theoretical Economics	dev
+C37	SVC	2610.0204	Computation and Language	Computation and Language	dev
+C37	SVC	2609.37782	Computation and Language	Computation and Language	dev
+C37	SVC	2603.12417	General Economics	General Economics	dev
+C37	SVC	2610.01627	Computation and Language	Computation and Language	dev
+C37	SVC	2603.09539	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.0962	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.05382	Computation and Language	Computation and Language	dev
+C37	SVC	2508.18211	Biomolecules	Biomolecules	dev
+C37	SVC	2601.20238	General Economics	General Economics	dev
+C37	SVC	2610.00316	Computation and Language	Computation and Language	dev
+C37	SVC	2610.06285	Machine Learning	Machine Learning	dev
+C37	SVC	2609.04461	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2609.34838	Machine Learning	Machine Learning	dev
+C37	SVC	2609.36885	Biomolecules	Biomolecules	dev
+C37	SVC	2609.3465	Machine Learning	Machine Learning	dev
+C37	SVC	2610.06243	Machine Learning	Machine Learning	dev
+C37	SVC	2609.39972	Computation and Language	Computation and Language	dev
+C37	SVC	2601.12424	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2608.05882	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.28675	General Economics	General Economics	dev
+C37	SVC	2602.15246	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.04413	Machine Learning	Machine Learning	dev
+C37	SVC	2610.04973	Computation and Language	Computation and Language	dev
+C37	SVC	2609.37127	Computation and Language	Computation and Language	dev
+C37	SVC	2602.12392	General Economics	General Economics	dev
+C37	SVC	2608.00835	Machine Learning	Neurons and Cognition	dev
+C37	SVC	2603.21407	Theoretical Economics	General Economics	dev
+C37	SVC	2606.02591	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.04547	Machine Learning	Machine Learning	dev
+C37	SVC	2602.20946	General Economics	General Economics	dev
+C37	SVC	2601.15494	General Economics	General Economics	dev
+C37	SVC	2511.23374	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2503.17007	Biomolecules	Biomolecules	dev
+C37	SVC	2610.06851	Machine Learning	Computation and Language	dev
+C37	SVC	2608.07298	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2503.03503	Biomolecules	Machine Learning	dev
+C37	SVC	2602.06672	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.08559	Computation and Language	Computation and Language	dev
+C37	SVC	2506.13395	Biomolecules	Biomolecules	dev
+C37	SVC	2606.05189	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2608.23369	General Economics	General Economics	dev
+C37	SVC	2602.08134	General Economics	General Economics	dev
+C37	SVC	2603.29727	Biomolecules	Biomolecules	dev
+C37	SVC	2608.05635	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.08413	Computation and Language	Computation and Language	dev
+C37	SVC	2601.10218	General Economics	General Economics	dev
+C37	SVC	2602.16973	General Economics	Theoretical Economics	dev
+C37	SVC	2610.06286	Computation and Language	Computation and Language	dev
+C37	SVC	2605.21324	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.00574	Machine Learning	Machine Learning	dev
+C37	SVC	2610.06988	Machine Learning	Machine Learning	dev
+C37	SVC	2606.28295	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.04264	Machine Learning	Machine Learning	dev
+C37	SVC	2604.24344	General Economics	Theoretical Economics	dev
+C37	SVC	2601.13693	Biomolecules	Biomolecules	dev
+C37	SVC	2609.04195	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2603.25086	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.01046	Computation and Language	Computation and Language	dev
+C37	SVC	2603.27868	Theoretical Economics	General Economics	dev
+C37	SVC	2609.38503	Theoretical Economics	General Economics	dev
+C37	SVC	2609.40103	Computation and Language	Computation and Language	dev
+C37	SVC	2601.15313	Neurons and Cognition	Computation and Language	dev
+C37	SVC	2604.01066	General Economics	General Economics	dev
+C37	SVC	2607.14086	Machine Learning	Machine Learning	dev
+C37	SVC	2605.00746	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.07834	Machine Learning	Machine Learning	dev
+C37	SVC	2604.19178	General Economics	General Economics	dev
+C37	SVC	2502.09372	Biomolecules	Biomolecules	dev
+C37	SVC	2607.10435	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2604.22895	General Economics	General Economics	dev
+C37	SVC	2606.21818	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2607.23313	General Economics	Computation and Language	dev
+C37	SVC	2610.08287	Machine Learning	Machine Learning	dev
+C37	SVC	2603.20617	Theoretical Economics	General Economics	dev
+C37	SVC	2610.0683	Computation and Language	Computation and Language	dev
+C37	SVC	2509.06271	Biomolecules	Biomolecules	dev
+C37	SVC	2601.15771	Machine Learning	Machine Learning	dev
+C37	SVC	2603.14758	General Economics	General Economics	dev
+C37	SVC	2607.18969	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.07115	Machine Learning	Computation and Language	dev
+C37	SVC	2608.24894	General Economics	General Economics	dev
+C37	SVC	2502.11001	Biomolecules	Machine Learning	dev
+C37	SVC	2609.39425	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2604.03021	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2608.18604	Biomolecules	Biomolecules	dev
+C37	SVC	2608.16827	General Economics	General Economics	dev
+C37	SVC	2608.00045	Computation and Language	General Economics	dev
+C37	SVC	2605.10178	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.25481	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2606.23463	General Economics	Machine Learning	dev
+C37	SVC	2512.10203	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.04898	Computation and Language	Computation and Language	dev
+C37	SVC	2605.28562	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2606.01234	General Economics	General Economics	dev
+C37	SVC	2609.21335	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.04882	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05265	Machine Learning	Machine Learning	dev
+C37	SVC	2610.0156	Computation and Language	Computation and Language	dev
+C37	SVC	2606.06651	General Economics	General Economics	dev
+C37	SVC	2606.27783	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2605.02745	Machine Learning	Computation and Language	dev
+C37	SVC	2607.1914	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2606.12893	General Economics	General Economics	dev
+C37	SVC	2610.0149	Computation and Language	Computation and Language	dev
+C37	SVC	2603.19349	Machine Learning	Machine Learning	dev
+C37	SVC	2508.10262	Biomolecules	Biomolecules	dev
+C37	SVC	2604.15264	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2601.20724	General Economics	General Economics	dev
+C37	SVC	2610.07406	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05968	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05127	Machine Learning	Machine Learning	dev
+C37	SVC	2610.0525	Machine Learning	Machine Learning	dev
+C37	SVC	2512.13385	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2608.27538	General Economics	General Economics	dev
+C37	SVC	2609.05454	Biomolecules	Biomolecules	dev
+C37	SVC	2608.25088	Machine Learning	Machine Learning	dev
+C37	SVC	2605.00778	Machine Learning	Machine Learning	dev
+C37	SVC	2412.20011	Biomolecules	Biomolecules	dev
+C37	SVC	2609.39496	Machine Learning	Computation and Language	dev
+C37	SVC	2607.1195	Machine Learning	Machine Learning	dev
+C37	SVC	2506.19865	Biomolecules	Biomolecules	dev
+C37	SVC	2605.15243	Machine Learning	Machine Learning	dev
+C37	SVC	2607.26666	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.0791	Machine Learning	Machine Learning	dev
+C37	SVC	2605.12536	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2604.06395	Machine Learning	Machine Learning	dev
+C37	SVC	2602.21758	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2605.21358	General Economics	General Economics	dev
+C37	SVC	2604.04025	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2603.07217	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2604.0934	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2605.04443	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2605.1006	General Economics	General Economics	dev
+C37	SVC	2602.1882	General Economics	General Economics	dev
+C37	SVC	2602.08631	General Economics	General Economics	dev
+C37	SVC	2604.15363	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.34985	Machine Learning	Machine Learning	dev
+C37	SVC	2506.09336	Biomolecules	Biomolecules	dev
+C37	SVC	2607.25942	Theoretical Economics	Neurons and Cognition	dev
+C37	SVC	2512.00384	Machine Learning	Biomolecules	dev
+C37	SVC	2609.36451	Machine Learning	Computation and Language	dev
+C37	SVC	2610.03735	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2606.02099	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2606.23861	Theoretical Economics	General Economics	dev
+C37	SVC	2606.1226	Theoretical Economics	General Economics	dev
+C37	SVC	2609.3882	Computation and Language	Computation and Language	dev
+C37	SVC	2610.06576	Computation and Language	Computation and Language	dev
+C37	SVC	2603.26707	Computation and Language	General Economics	dev
+C37	SVC	2606.04142	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2412.20038	Biomolecules	Machine Learning	dev
+C37	SVC	2602.21971	General Economics	General Economics	dev
+C37	SVC	2605.23961	Biomolecules	Biomolecules	dev
+C37	SVC	2608.01297	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2609.05804	General Economics	General Economics	dev
+C37	SVC	2512.05833	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.08773	Computation and Language	Computation and Language	dev
+C37	SVC	2610.0645	Machine Learning	Machine Learning	dev
+C37	SVC	2412.16483	Machine Learning	Biomolecules	dev
+C37	SVC	2606.06424	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2512.00717	Theoretical Economics	General Economics	dev
+C37	SVC	2610.04212	Machine Learning	Machine Learning	dev
+C37	SVC	2610.0842	Machine Learning	Machine Learning	dev
+C37	SVC	2610.06383	Machine Learning	Computation and Language	dev
+C37	SVC	2610.01894	Machine Learning	Machine Learning	dev
+C37	SVC	2604.26546	General Economics	General Economics	dev
+C37	SVC	2609.39077	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.05076	Computation and Language	Computation and Language	dev
+C37	SVC	2510.00774	Biomolecules	Biomolecules	dev
+C37	SVC	2502.06846	Machine Learning	Biomolecules	dev
+C37	SVC	2602.05112	General Economics	General Economics	dev
+C37	SVC	2510.09372	Biomolecules	Biomolecules	dev
+C37	SVC	2607.17073	General Economics	Theoretical Economics	dev
+C37	SVC	2610.08384	Machine Learning	Machine Learning	dev
+C37	SVC	2512.0203	Biomolecules	Biomolecules	dev
+C37	SVC	2603.19881	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2602.21787	Biomolecules	Biomolecules	dev
+C37	SVC	2608.06134	General Economics	Theoretical Economics	dev
+C37	SVC	2605.1709	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2512.17169	Biomolecules	Biomolecules	dev
+C37	SVC	2504.0359	Biomolecules	Biomolecules	dev
+C37	SVC	2602.11234	Machine Learning	Machine Learning	dev
+C37	SVC	2503.21233	Biomolecules	Biomolecules	dev
+C37	SVC	2607.04708	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2501.04258	Biomolecules	Biomolecules	dev
+C37	SVC	2608.15926	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.02353	Machine Learning	Computation and Language	dev
+C37	SVC	2607.05558	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2605.20152	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.02013	General Economics	General Economics	dev
+C37	SVC	2610.07706	Machine Learning	Computation and Language	dev
+C37	SVC	2601.11185	General Economics	General Economics	dev
+C37	SVC	2505.15054	Computation and Language	Biomolecules	dev
+C37	SVC	2610.08118	Machine Learning	Machine Learning	dev
+C37	SVC	2511.00209	Machine Learning	Biomolecules	dev
+C37	SVC	2508.2135	Biomolecules	Biomolecules	dev
+C37	SVC	2601.11108	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2501.15631	Biomolecules	Biomolecules	dev
+C37	SVC	2610.0483	Computation and Language	Machine Learning	dev
+C37	SVC	2505.18566	Biomolecules	Biomolecules	dev
+C37	SVC	2602.16584	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.37577	Computation and Language	Computation and Language	dev
+C37	SVC	2511.21476	Biomolecules	Machine Learning	dev
+C37	SVC	2605.01767	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2607.29101	Biomolecules	Biomolecules	dev
+C37	SVC	2610.00928	Computation and Language	Computation and Language	dev
+C37	SVC	2605.14496	Biomolecules	Biomolecules	dev
+C37	SVC	2606.28583	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.27569	General Economics	General Economics	dev
+C37	SVC	2505.00719	Biomolecules	Biomolecules	dev
+C37	SVC	2610.03854	Machine Learning	Machine Learning	dev
+C37	SVC	2606.29655	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.32315	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.058	Computation and Language	Machine Learning	dev
+C37	SVC	2609.33057	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.08694	Machine Learning	Machine Learning	dev
+C37	SVC	2508.19632	Biomolecules	Biomolecules	dev
+C37	SVC	2606.10891	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2606.02937	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2608.15081	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2606.31271	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.06509	Machine Learning	Machine Learning	dev
+C37	SVC	2609.31192	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2507.01073	Machine Learning	Machine Learning	dev
+C37	SVC	2608.11371	General Economics	General Economics	dev
+C37	SVC	2610.03078	Computation and Language	Computation and Language	dev
+C37	SVC	2603.06557	Machine Learning	Neurons and Cognition	dev
+C37	SVC	2506.23439	Biomolecules	Biomolecules	dev
+C37	SVC	2603.09637	General Economics	General Economics	dev
+C37	SVC	2610.04802	Machine Learning	Machine Learning	dev
+C37	SVC	2606.3178	Theoretical Economics	General Economics	dev
+C37	SVC	2509.05302	Biomolecules	Biomolecules	dev
+C37	SVC	2609.38795	Computation and Language	Computation and Language	dev
+C37	SVC	2601.05206	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2503.09085	Biomolecules	Biomolecules	dev
+C37	SVC	2609.29905	General Economics	General Economics	dev
+C37	SVC	2605.23111	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2511.18647	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2606.24319	General Economics	General Economics	dev
+C37	SVC	2610.07212	Machine Learning	Machine Learning	dev
+C37	SVC	2604.14096	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2603.2233	Biomolecules	Biomolecules	dev
+C37	SVC	2606.07562	Biomolecules	Biomolecules	dev
+C37	SVC	2608.0323	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.16087	Machine Learning	Machine Learning	dev
+C37	SVC	2602.12811	Computation and Language	Computation and Language	dev
+C37	SVC	2607.1293	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.04961	Computation and Language	Machine Learning	dev
+C37	SVC	2610.02926	Computation and Language	Computation and Language	dev
+C37	SVC	2602.0324	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.0449	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05834	Machine Learning	Machine Learning	dev
+C37	SVC	2607.09662	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.05098	Machine Learning	Machine Learning	dev
+C37	SVC	2609.3974	Computation and Language	Computation and Language	dev
+C37	SVC	2603.2819	General Economics	Theoretical Economics	dev
+C37	SVC	2608.00503	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.37494	Computation and Language	Computation and Language	dev
+C37	SVC	2610.04829	Computation and Language	Computation and Language	dev
+C37	SVC	2609.36303	Computation and Language	Machine Learning	dev
+C37	SVC	2607.24805	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2605.16613	Computation and Language	Computation and Language	dev
+C37	SVC	2609.13613	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.07778	Machine Learning	Machine Learning	dev
+C37	SVC	2610.04988	Machine Learning	Machine Learning	dev
+C37	SVC	2610.04967	Machine Learning	Computation and Language	dev
+C37	SVC	2608.10274	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2507.19805	Biomolecules	Biomolecules	dev
+C37	SVC	2609.40198	Computation and Language	Computation and Language	dev
+C37	SVC	2605.25214	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2605.19333	Biomolecules	Biomolecules	dev
+C37	SVC	2609.16203	General Economics	General Economics	dev
+C37	SVC	2610.07973	Machine Learning	Machine Learning	dev
+C37	SVC	2607.04956	General Economics	General Economics	dev
+C37	SVC	2510.24732	Biomolecules	Biomolecules	dev
+C37	SVC	2512.10109	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.03002	Computation and Language	Computation and Language	dev
+C37	SVC	2601.11196	General Economics	General Economics	dev
+C37	SVC	2605.05259	Biomolecules	Biomolecules	dev
+C37	SVC	2508.17815	Machine Learning	Biomolecules	dev
+C37	SVC	2610.0065	Computation and Language	Computation and Language	dev
+C37	SVC	2609.35685	Computation and Language	Computation and Language	dev
+C37	SVC	2609.36209	Computation and Language	Computation and Language	dev
+C37	SVC	2609.05115	General Economics	General Economics	dev
+C37	SVC	2604.23562	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.04907	Machine Learning	Machine Learning	dev
+C37	SVC	2610.06902	Computation and Language	Computation and Language	dev
+C37	SVC	2610.03662	Machine Learning	Machine Learning	dev
+C37	SVC	2610.01108	Computation and Language	Computation and Language	dev
+C37	SVC	2610.05894	Computation and Language	Computation and Language	dev
+C37	SVC	2610.02404	Machine Learning	Computation and Language	dev
+C37	SVC	2505.0885	Biomolecules	Biomolecules	dev
+C37	SVC	2506.06294	Machine Learning	Biomolecules	dev
+C37	SVC	2603.01387	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2509.03487	Machine Learning	Biomolecules	dev
+C37	SVC	2610.05878	Machine Learning	Computation and Language	dev
+C37	SVC	2606.1373	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2507.06366	Machine Learning	Biomolecules	dev
+C37	SVC	2608.06149	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2609.39608	Computation and Language	Computation and Language	dev
+C37	SVC	2604.19044	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.0546	Theoretical Economics	Machine Learning	dev
+C37	SVC	2505.17914	Biomolecules	Machine Learning	dev
+C37	SVC	2603.0083	General Economics	General Economics	dev
+C37	SVC	2605.31296	Biomolecules	Biomolecules	dev
+C37	SVC	2610.06647	Computation and Language	Machine Learning	dev
+C37	SVC	2511.06356	Machine Learning	Machine Learning	dev
+C37	SVC	2609.07624	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2604.01416	General Economics	General Economics	dev
+C37	SVC	2610.08026	Computation and Language	Computation and Language	dev
+C37	SVC	2609.37169	Machine Learning	Machine Learning	dev
+C37	SVC	2509.22285	Biomolecules	Biomolecules	dev
+C37	SVC	2603.15852	General Economics	General Economics	dev
+C37	SVC	2606.11566	General Economics	General Economics	dev
+C37	SVC	2609.37351	Machine Learning	Machine Learning	dev
+C37	SVC	2512.10418	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.05898	Machine Learning	Machine Learning	dev
+C37	SVC	2610.03494	Machine Learning	Machine Learning	dev
+C37	SVC	2609.02887	Machine Learning	Computation and Language	dev
+C37	SVC	2606.15545	Theoretical Economics	General Economics	dev
+C37	SVC	2605.042	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.07871	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.39027	Computation and Language	Computation and Language	dev
+C37	SVC	2503.08674	Machine Learning	Machine Learning	dev
+C37	SVC	2607.20323	Machine Learning	Machine Learning	dev
+C37	SVC	2610.02122	Computation and Language	Computation and Language	dev
+C37	SVC	2609.36097	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2608.25909	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2603.26702	General Economics	General Economics	dev
+C37	SVC	2511.19184	Biomolecules	Biomolecules	dev
+C37	SVC	2602.08429	General Economics	General Economics	dev
+C37	SVC	2605.14575	General Economics	General Economics	dev
+C37	SVC	2610.06446	Computation and Language	Computation and Language	dev
+C37	SVC	2602.10756	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.07335	Machine Learning	Machine Learning	dev
+C37	SVC	2511.00723	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.06105	Machine Learning	Computation and Language	dev
+C37	SVC	2609.3848	Computation and Language	Computation and Language	dev
+C37	SVC	2607.00397	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.36414	Computation and Language	Computation and Language	dev
+C37	SVC	2511.13736	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.20421	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2602.12695	General Economics	General Economics	dev
+C37	SVC	2609.39975	Computation and Language	Computation and Language	dev
+C37	SVC	2610.05745	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05039	Computation and Language	Machine Learning	dev
+C37	SVC	2601.06405	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2512.24777	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2605.30081	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2608.13244	Computation and Language	Biomolecules	dev
+C37	SVC	2512.08136	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.25115	Biomolecules	Biomolecules	dev
+C37	SVC	2608.24468	General Economics	General Economics	dev
+C37	SVC	2602.11442	General Economics	General Economics	dev
+C37	SVC	2608.04332	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.08479	Machine Learning	Machine Learning	dev
+C37	SVC	2603.25713	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2602.0292	Machine Learning	Machine Learning	dev
+C37	SVC	2609.26264	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.04158	Machine Learning	Machine Learning	dev
+C37	SVC	2609.14251	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2604.18108	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2502.02371	Biomolecules	Biomolecules	dev
+C37	SVC	2610.06903	Computation and Language	Computation and Language	dev
+C37	SVC	2510.20792	Machine Learning	Machine Learning	dev
+C37	SVC	2503.08179	Biomolecules	Biomolecules	dev
+C37	SVC	2603.2372	General Economics	General Economics	dev
+C37	SVC	2605.20679	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.40235	Machine Learning	Machine Learning	dev
+C37	SVC	2602.03172	Machine Learning	Machine Learning	dev
+C37	SVC	2610.06273	Computation and Language	Computation and Language	dev
+C37	SVC	2604.2223	General Economics	Theoretical Economics	dev
+C37	SVC	2603.20476	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2607.24807	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2604.15825	General Economics	General Economics	dev
+C37	SVC	2609.36218	Computation and Language	Computation and Language	dev
+C37	SVC	2605.07377	Theoretical Economics	General Economics	dev
+C37	SVC	2607.12414	General Economics	General Economics	dev
+C37	SVC	2512.08876	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.36131	Computation and Language	Computation and Language	dev
+C37	SVC	2503.193	Machine Learning	Biomolecules	dev
+C37	SVC	2601.20035	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2608.08395	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2601.20447	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2607.24834	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2609.31916	General Economics	General Economics	dev
+C37	SVC	2606.10222	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2604.10606	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2508.21076	Biomolecules	Biomolecules	dev
+C37	SVC	2606.23745	Biomolecules	Biomolecules	dev
+C37	SVC	2605.04336	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2603.11222	General Economics	General Economics	dev
+C37	SVC	2601.12054	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.3836	Machine Learning	Machine Learning	dev
+C37	SVC	2610.06065	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.04303	Machine Learning	Machine Learning	dev
+C37	SVC	2610.06636	Machine Learning	Machine Learning	dev
+C37	SVC	2605.18557	Machine Learning	Machine Learning	dev
+C37	SVC	2607.12771	Machine Learning	Computation and Language	dev
+C37	SVC	2610.06012	Machine Learning	Machine Learning	dev
+C37	SVC	2609.10029	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.01493	Computation and Language	Computation and Language	dev
+C37	SVC	2610.06695	Computation and Language	Computation and Language	dev
+C37	SVC	2609.37879	Computation and Language	Machine Learning	dev
+C37	SVC	2610.0277	Computation and Language	Computation and Language	dev
+C37	SVC	2511.21147	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2606.10127	Theoretical Economics	General Economics	dev
+C37	SVC	2603.06118	General Economics	General Economics	dev
+C37	SVC	2609.26964	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.36457	Computation and Language	Computation and Language	dev
+C37	SVC	2610.02736	Computation and Language	Computation and Language	dev
+C37	SVC	2507.07367	Biomolecules	Machine Learning	dev
+C37	SVC	2610.02022	Computation and Language	Computation and Language	dev
+C37	SVC	2609.19888	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.38832	Computation and Language	Machine Learning	dev
+C37	SVC	2610.05978	Computation and Language	Computation and Language	dev
+C37	SVC	2608.24928	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2512.10112	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2602.00934	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2602.23098	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.03679	Machine Learning	Machine Learning	dev
+C37	SVC	2608.29506	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2604.0605	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.05278	Computation and Language	Computation and Language	dev
+C37	SVC	2609.34769	Computation and Language	Computation and Language	dev
+C37	SVC	2609.37868	Machine Learning	Machine Learning	dev
+C37	SVC	2605.30552	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2605.00014	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.05632	Machine Learning	Neurons and Cognition	dev
+C37	SVC	2607.28371	General Economics	General Economics	dev
+C37	SVC	2502.16446	Machine Learning	Biomolecules	dev
+C37	SVC	2610.01218	Computation and Language	Computation and Language	dev
+C37	SVC	2610.0595	Machine Learning	Machine Learning	dev
+C37	SVC	2510.1659	Machine Learning	Computation and Language	dev
+C37	SVC	2610.05074	Machine Learning	Machine Learning	dev
+C37	SVC	2609.39929	Machine Learning	Computation and Language	dev
+C37	SVC	2608.23415	Biomolecules	Neurons and Cognition	dev
+C37	SVC	2604.26902	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2604.13545	General Economics	General Economics	dev
+C37	SVC	2610.00997	Computation and Language	Computation and Language	dev
+C37	SVC	2610.06282	Machine Learning	Machine Learning	dev
+C37	SVC	2603.04298	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.04795	Machine Learning	Machine Learning	dev
+C37	SVC	2609.21163	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2605.28693	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.04956	Computation and Language	Computation and Language	dev
+C37	SVC	2606.17373	General Economics	Theoretical Economics	dev
+C37	SVC	2610.07362	Machine Learning	Machine Learning	dev
+C37	SVC	2605.19816	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2504.01593	Biomolecules	Biomolecules	dev
+C37	SVC	2610.06572	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.39807	Computation and Language	Computation and Language	dev
+C37	SVC	2608.02817	General Economics	General Economics	dev
+C37	SVC	2610.05974	Machine Learning	Machine Learning	dev
+C37	SVC	2603.06816	Computation and Language	Computation and Language	dev
+C37	SVC	2609.35426	Machine Learning	Machine Learning	dev
+C37	SVC	2504.05564	Biomolecules	Biomolecules	dev
+C37	SVC	2505.18392	Machine Learning	Machine Learning	dev
+C37	SVC	2605.0185	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.20176	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2606.10092	Machine Learning	Theoretical Economics	dev
+C37	SVC	2601.10664	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2511.17251	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.03933	Theoretical Economics	General Economics	dev
+C37	SVC	2608.05985	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2610.05371	Machine Learning	Machine Learning	dev
+C37	SVC	2601.12783	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2604.04033	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2505.15093	Biomolecules	Biomolecules	dev
+C37	SVC	2605.02354	General Economics	Theoretical Economics	dev
+C37	SVC	2601.15319	Neurons and Cognition	Computation and Language	dev
+C37	SVC	2610.03195	Computation and Language	Computation and Language	dev
+C37	SVC	2609.39927	Computation and Language	Machine Learning	dev
+C37	SVC	2610.02829	Computation and Language	Computation and Language	dev
+C37	SVC	2509.23254	Machine Learning	Biomolecules	dev
+C37	SVC	2601.20912	General Economics	General Economics	dev
+C37	SVC	2605.00692	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2509.14029	Machine Learning	Biomolecules	dev
+C37	SVC	2610.07389	Machine Learning	Machine Learning	dev
+C37	SVC	2610.01938	Computation and Language	Computation and Language	dev
+C37	SVC	2606.02306	Theoretical Economics	General Economics	dev
+C37	SVC	2610.06952	Machine Learning	Machine Learning	dev
+C37	SVC	2607.28222	General Economics	General Economics	dev
+C37	SVC	2509.16877	Biomolecules	Biomolecules	dev
+C37	SVC	2609.25026	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2507.02025	Biomolecules	Biomolecules	dev
+C37	SVC	2606.20041	General Economics	Computation and Language	dev
+C37	SVC	2609.11989	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.34366	Computation and Language	Computation and Language	dev
+C37	SVC	2605.28265	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2605.16862	General Economics	General Economics	dev
+C37	SVC	2610.08745	Machine Learning	Machine Learning	dev
+C37	SVC	2609.02739	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.07981	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05366	Computation and Language	Computation and Language	dev
+C37	SVC	2610.06918	Machine Learning	Machine Learning	dev
+C37	SVC	2506.13344	Machine Learning	Machine Learning	dev
+C37	SVC	2610.03102	Computation and Language	Computation and Language	dev
+C37	SVC	2610.06404	Machine Learning	Computation and Language	dev
+C37	SVC	2608.15193	Neurons and Cognition	Computation and Language	dev
+C37	SVC	2609.36246	Computation and Language	Computation and Language	dev
+C37	SVC	2606.1007	General Economics	General Economics	dev
+C37	SVC	2610.00958	Computation and Language	Computation and Language	dev
+C37	SVC	2605.16146	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2610.03027	Machine Learning	Machine Learning	dev
+C37	SVC	2606.1729	General Economics	General Economics	dev
+C37	SVC	2607.26559	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2608.01773	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2607.1579	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2608.06623	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2603.24615	General Economics	Theoretical Economics	dev
+C37	SVC	2609.32859	General Economics	General Economics	dev
+C37	SVC	2610.0863	Computation and Language	Computation and Language	dev
+C37	SVC	2605.22988	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2604.08604	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2609.35083	Biomolecules	Machine Learning	dev
+C37	SVC	2602.09237	General Economics	General Economics	dev
+C37	SVC	2506.15309	Machine Learning	Machine Learning	dev
+C37	SVC	2606.10681	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2605.22523	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2603.16202	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.0545	Machine Learning	Theoretical Economics	dev
+C37	SVC	2601.19329	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2608.028	General Economics	General Economics	dev
+C37	SVC	2603.04149	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2608.01434	Machine Learning	Machine Learning	dev
+C37	SVC	2602.02284	General Economics	General Economics	dev
+C37	SVC	2610.02999	Computation and Language	Computation and Language	dev
+C37	SVC	2610.03454	Machine Learning	Machine Learning	dev
+C37	SVC	2610.08661	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2605.09083	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.08735	Machine Learning	Machine Learning	dev
+C37	SVC	2511.15686	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.07847	Computation and Language	Computation and Language	dev
+C37	SVC	2605.09029	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.03329	Computation and Language	Computation and Language	dev
+C37	SVC	2608.0831	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2605.08989	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.39346	Computation and Language	Computation and Language	dev
+C37	SVC	2606.00989	General Economics	General Economics	dev
+C37	SVC	2609.39446	Computation and Language	Computation and Language	dev
+C37	SVC	2605.21356	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2602.1316	Biomolecules	Biomolecules	dev
+C37	SVC	2606.31955	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2609.02357	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.04074	Computation and Language	Computation and Language	dev
+C37	SVC	2608.09409	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2607.12909	Neurons and Cognition	Machine Learning	dev
+C37	SVC	2609.35338	Machine Learning	Machine Learning	dev
+C37	SVC	2610.05401	Machine Learning	Machine Learning	dev
+C37	SVC	2607.08855	Neurons and Cognition	Neurons and Cognition	dev
+C37	SVC	2505.07821	Biomolecules	Biomolecules	dev
+C37	SVC	2507.10839	Biomolecules	Biomolecules	dev
+C37	SVC	2602.21838	General Economics	Machine Learning	dev
+C37	SVC	2607.29572	General Economics	General Economics	dev
+C37	SVC	2603.17947	Machine Learning	Machine Learning	dev
+C37	SVC	2604.26634	Machine Learning	Machine Learning	dev
+C37	SVC	2507.02724	Machine Learning	Biomolecules	dev
+C37	SVC	2603.0928	Theoretical Economics	Theoretical Economics	dev
+C37	SVC	2610.08403	Machine Learning	Machine Learning	dev
+C37	SVC	2506.22901	Machine Learning	Machine Learning	dev
+C37	SVC	2610.04786	Machine Learning	Machine Learning	dev
+test	LogisticRegression	2512.15341	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2602.11632	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.08534	General Economics	General Economics	test
+test	LogisticRegression	2603.2741	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2608.02651	Theoretical Economics	General Economics	test
+test	LogisticRegression	2506.02051	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.38149	Computation and Language	Machine Learning	test
+test	LogisticRegression	2604.18373	General Economics	General Economics	test
+test	LogisticRegression	2608.24895	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.38802	Computation and Language	Computation and Language	test
+test	LogisticRegression	2606.3047	General Economics	General Economics	test
+test	LogisticRegression	2610.08675	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.0773	Computation and Language	Computation and Language	test
+test	LogisticRegression	2602.07688	General Economics	Theoretical Economics	test
+test	LogisticRegression	2606.08297	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2608.06152	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.01118	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.38923	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.04888	Computation and Language	Computation and Language	test
+test	LogisticRegression	2603.17578	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.07002	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.04703	Machine Learning	Machine Learning	test
+test	LogisticRegression	2605.02776	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2607.10756	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2601.19257	Biomolecules	Machine Learning	test
+test	LogisticRegression	2508.1206	Biomolecules	Biomolecules	test
+test	LogisticRegression	2604.2453	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.05308	Computation and Language	Computation and Language	test
+test	LogisticRegression	2608.18739	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.35674	Computation and Language	Machine Learning	test
+test	LogisticRegression	2608.12394	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.00954	Computation and Language	Computation and Language	test
+test	LogisticRegression	2603.0442	Machine Learning	Neurons and Cognition	test
+test	LogisticRegression	2605.05521	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2603.03465	General Economics	General Economics	test
+test	LogisticRegression	2605.27698	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2606.1596	General Economics	General Economics	test
+test	LogisticRegression	2607.03113	General Economics	General Economics	test
+test	LogisticRegression	2606.18087	General Economics	General Economics	test
+test	LogisticRegression	2608.26358	General Economics	General Economics	test
+test	LogisticRegression	2610.07038	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.1846	Neurons and Cognition	Computation and Language	test
+test	LogisticRegression	2609.21272	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2603.17676	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2506.038	Biomolecules	Biomolecules	test
+test	LogisticRegression	2606.28919	General Economics	Theoretical Economics	test
+test	LogisticRegression	2603.19412	General Economics	General Economics	test
+test	LogisticRegression	2609.39578	Computation and Language	Computation and Language	test
+test	LogisticRegression	2512.23175	Machine Learning	Biomolecules	test
+test	LogisticRegression	2607.2497	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.06439	Machine Learning	Computation and Language	test
+test	LogisticRegression	2509.11044	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.13844	General Economics	Theoretical Economics	test
+test	LogisticRegression	2607.0398	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2607.08302	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2603.17633	Biomolecules	Biomolecules	test
+test	LogisticRegression	2506.03157	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.01132	Biomolecules	Biomolecules	test
+test	LogisticRegression	2606.11893	Machine Learning	Computation and Language	test
+test	LogisticRegression	2610.0643	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.06298	Computation and Language	Computation and Language	test
+test	LogisticRegression	2504.10408	Biomolecules	Biomolecules	test
+test	LogisticRegression	2602.13325	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2503.13329	Machine Learning	Biomolecules	test
+test	LogisticRegression	2602.11478	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.05549	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.07352	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.0094	Computation and Language	Computation and Language	test
+test	LogisticRegression	2608.26426	General Economics	General Economics	test
+test	LogisticRegression	2607.21851	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2503.14442	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.03456	Machine Learning	Machine Learning	test
+test	LogisticRegression	2603.22705	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.10664	General Economics	General Economics	test
+test	LogisticRegression	2607.11656	Neurons and Cognition	Machine Learning	test
+test	LogisticRegression	2610.07817	Computation and Language	Computation and Language	test
+test	LogisticRegression	2607.15693	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2602.16631	General Economics	General Economics	test
+test	LogisticRegression	2608.09882	General Economics	General Economics	test
+test	LogisticRegression	2609.38081	Machine Learning	Machine Learning	test
+test	LogisticRegression	2608.29104	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.03531	Computation and Language	Computation and Language	test
+test	LogisticRegression	2607.2336	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2605.00465	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2512.15717	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.02472	Computation and Language	Computation and Language	test
+test	LogisticRegression	2604.26761	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.08272	Machine Learning	Machine Learning	test
+test	LogisticRegression	2603.24293	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.0698	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.02781	Machine Learning	Computation and Language	test
+test	LogisticRegression	2511.16793	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2509.14788	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.3946	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.05077	Machine Learning	General Economics	test
+test	LogisticRegression	2503.02058	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.07712	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.05845	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.00562	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.06428	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.23924	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.19771	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.35564	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.04827	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.40064	Computation and Language	General Economics	test
+test	LogisticRegression	2606.25909	General Economics	General Economics	test
+test	LogisticRegression	2610.03939	Machine Learning	Machine Learning	test
+test	LogisticRegression	2506.01857	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.03413	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.07475	Machine Learning	Machine Learning	test
+test	LogisticRegression	2603.23775	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.05711	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.08593	Machine Learning	Machine Learning	test
+test	LogisticRegression	2512.18764	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.04687	Computation and Language	Computation and Language	test
+test	LogisticRegression	2606.17807	General Economics	General Economics	test
+test	LogisticRegression	2604.19662	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2607.03298	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.31529	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.01468	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2608.20074	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2603.07893	Machine Learning	General Economics	test
+test	LogisticRegression	2512.06005	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2502.0281	Machine Learning	Biomolecules	test
+test	LogisticRegression	2609.39369	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.07898	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.09323	General Economics	General Economics	test
+test	LogisticRegression	2610.05976	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.05333	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.33214	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2606.28063	General Economics	Machine Learning	test
+test	LogisticRegression	2505.24203	Biomolecules	Biomolecules	test
+test	LogisticRegression	2605.15405	General Economics	General Economics	test
+test	LogisticRegression	2608.30337	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.0426	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.18795	General Economics	General Economics	test
+test	LogisticRegression	2609.37863	Computation and Language	Computation and Language	test
+test	LogisticRegression	2608.07022	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.06993	Machine Learning	Computation and Language	test
+test	LogisticRegression	2508.12629	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.35367	Computation and Language	Computation and Language	test
+test	LogisticRegression	2603.23233	Neurons and Cognition	Theoretical Economics	test
+test	LogisticRegression	2503.04362	Machine Learning	Biomolecules	test
+test	LogisticRegression	2609.37361	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.06093	Computation and Language	Computation and Language	test
+test	LogisticRegression	2511.02436	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.0875	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.21216	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.04695	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.07399	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.04845	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.0794	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.04125	Computation and Language	Computation and Language	test
+test	LogisticRegression	2608.12396	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.0115	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.02911	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.34509	Machine Learning	Computation and Language	test
+test	LogisticRegression	2609.36675	Computation and Language	Machine Learning	test
+test	LogisticRegression	2610.03324	Computation and Language	Computation and Language	test
+test	LogisticRegression	2602.11054	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2604.01443	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2601.01279	Theoretical Economics	General Economics	test
+test	LogisticRegression	2609.36201	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.39069	Computation and Language	Computation and Language	test
+test	LogisticRegression	2606.08207	General Economics	General Economics	test
+test	LogisticRegression	2610.02219	Neurons and Cognition	Theoretical Economics	test
+test	LogisticRegression	2605.13904	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2607.19316	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.04261	Computation and Language	Computation and Language	test
+test	LogisticRegression	2601.22079	Theoretical Economics	General Economics	test
+test	LogisticRegression	2609.35462	Machine Learning	Computation and Language	test
+test	LogisticRegression	2605.03966	General Economics	General Economics	test
+test	LogisticRegression	2601.14071	General Economics	General Economics	test
+test	LogisticRegression	2609.38256	Computation and Language	Computation and Language	test
+test	LogisticRegression	2507.02231	Biomolecules	Biomolecules	test
+test	LogisticRegression	2603.20674	General Economics	General Economics	test
+test	LogisticRegression	2605.30435	General Economics	General Economics	test
+test	LogisticRegression	2502.13344	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.40185	Computation and Language	Machine Learning	test
+test	LogisticRegression	2602.21522	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.05538	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.14241	Biomolecules	Biomolecules	test
+test	LogisticRegression	2606.25954	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2603.0387	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2603.24842	General Economics	General Economics	test
+test	LogisticRegression	2504.19538	Machine Learning	Machine Learning	test
+test	LogisticRegression	2603.23038	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.06026	Computation and Language	Machine Learning	test
+test	LogisticRegression	2610.05954	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.15819	General Economics	General Economics	test
+test	LogisticRegression	2606.24037	Neurons and Cognition	Theoretical Economics	test
+test	LogisticRegression	2610.08577	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.13794	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2607.03556	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2608.23524	General Economics	General Economics	test
+test	LogisticRegression	2608.17111	General Economics	General Economics	test
+test	LogisticRegression	2610.07374	Machine Learning	Machine Learning	test
+test	LogisticRegression	2606.27946	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.19081	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.04068	Theoretical Economics	General Economics	test
+test	LogisticRegression	2604.18637	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2602.11189	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.38021	Computation and Language	Computation and Language	test
+test	LogisticRegression	2608.11497	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.04015	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2602.01019	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.39225	Computation and Language	Computation and Language	test
+test	LogisticRegression	2502.09943	Biomolecules	Biomolecules	test
+test	LogisticRegression	2608.12818	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2608.2767	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.16469	General Economics	General Economics	test
+test	LogisticRegression	2601.04874	Biomolecules	Biomolecules	test
+test	LogisticRegression	2603.01782	General Economics	General Economics	test
+test	LogisticRegression	2603.02491	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.37914	Computation and Language	Computation and Language	test
+test	LogisticRegression	2412.20329	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.04493	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.06545	Machine Learning	Machine Learning	test
+test	LogisticRegression	2507.03474	Machine Learning	Biomolecules	test
+test	LogisticRegression	2610.08565	Machine Learning	Theoretical Economics	test
+test	LogisticRegression	2603.23082	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2604.08678	General Economics	General Economics	test
+test	LogisticRegression	2610.03978	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.00468	General Economics	General Economics	test
+test	LogisticRegression	2511.16367	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.084	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.22064	Machine Learning	Neurons and Cognition	test
+test	LogisticRegression	2604.00615	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.4036	Machine Learning	Computation and Language	test
+test	LogisticRegression	2507.17876	Machine Learning	Biomolecules	test
+test	LogisticRegression	2610.04403	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.03529	Machine Learning	Machine Learning	test
+test	LogisticRegression	2602.13014	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.02183	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2509.06465	Machine Learning	Machine Learning	test
+test	LogisticRegression	2506.2083	Biomolecules	Biomolecules	test
+test	LogisticRegression	2607.01229	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.03396	Machine Learning	Machine Learning	test
+test	LogisticRegression	2601.12837	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.0587	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2505.20346	Machine Learning	Biomolecules	test
+test	LogisticRegression	2601.10482	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2602.05971	Computation and Language	Computation and Language	test
+test	LogisticRegression	2608.21368	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.34348	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.03216	Machine Learning	Machine Learning	test
+test	LogisticRegression	2608.29488	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.0117	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.03642	Machine Learning	Machine Learning	test
+test	LogisticRegression	2606.22337	Theoretical Economics	Computation and Language	test
+test	LogisticRegression	2504.01389	Machine Learning	Biomolecules	test
+test	LogisticRegression	2602.08074	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2603.28764	Machine Learning	Neurons and Cognition	test
+test	LogisticRegression	2606.02503	General Economics	General Economics	test
+test	LogisticRegression	2605.30879	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.06522	Computation and Language	Computation and Language	test
+test	LogisticRegression	2506.00009	Biomolecules	Machine Learning	test
+test	LogisticRegression	2609.36349	General Economics	General Economics	test
+test	LogisticRegression	2603.12416	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2502.06891	Biomolecules	Machine Learning	test
+test	LogisticRegression	2605.11764	Machine Learning	Machine Learning	test
+test	LogisticRegression	2608.28838	Biomolecules	Machine Learning	test
+test	LogisticRegression	2609.13899	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2607.15385	General Economics	General Economics	test
+test	LogisticRegression	2610.04299	Machine Learning	Computation and Language	test
+test	LogisticRegression	2605.04636	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.37882	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.03565	Computation and Language	Computation and Language	test
+test	LogisticRegression	2602.14816	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.29984	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.06266	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.07583	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.03395	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.34534	Computation and Language	General Economics	test
+test	LogisticRegression	2610.0743	Machine Learning	Machine Learning	test
+test	LogisticRegression	2606.116	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2608.00517	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2602.08955	General Economics	General Economics	test
+test	LogisticRegression	2610.08719	Computation and Language	Machine Learning	test
+test	LogisticRegression	2610.08561	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.04925	Machine Learning	Machine Learning	test
+test	LogisticRegression	2605.12676	General Economics	General Economics	test
+test	LogisticRegression	2609.3907	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2605.26367	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2601.17523	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.07207	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.36214	Computation and Language	Computation and Language	test
+test	LogisticRegression	2512.15645	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.39072	Computation and Language	Computation and Language	test
+test	LogisticRegression	2602.08144	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.03515	Computation and Language	Machine Learning	test
+test	LogisticRegression	2601.0415	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.35244	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2607.19014	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2608.07098	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.37755	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.06505	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.06464	Machine Learning	Machine Learning	test
+test	LogisticRegression	2602.1869	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2603.27347	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2608.2798	General Economics	General Economics	test
+test	LogisticRegression	2610.04946	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.08049	Machine Learning	Machine Learning	test
+test	LogisticRegression	2509.25479	Biomolecules	Biomolecules	test
+test	LogisticRegression	2605.19129	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.35866	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.00784	Theoretical Economics	General Economics	test
+test	LogisticRegression	2604.01169	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.36734	Computation and Language	Machine Learning	test
+test	LogisticRegression	2608.11185	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.0857	Machine Learning	Machine Learning	test
+test	LogisticRegression	2501.15055	Biomolecules	Biomolecules	test
+test	LogisticRegression	2604.05841	General Economics	General Economics	test
+test	LogisticRegression	2609.37017	Computation and Language	Computation and Language	test
+test	LogisticRegression	2604.22018	Neurons and Cognition	Machine Learning	test
+test	LogisticRegression	2510.27539	Biomolecules	Biomolecules	test
+test	LogisticRegression	2607.13526	General Economics	General Economics	test
+test	LogisticRegression	2602.14328	Biomolecules	Biomolecules	test
+test	LogisticRegression	2606.08419	General Economics	Theoretical Economics	test
+test	LogisticRegression	2610.07485	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.07348	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.16973	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.05318	Machine Learning	Machine Learning	test
+test	LogisticRegression	2606.2194	Machine Learning	Neurons and Cognition	test
+test	LogisticRegression	2506.01177	Machine Learning	Machine Learning	test
+test	LogisticRegression	2412.18275	Biomolecules	Biomolecules	test
+test	LogisticRegression	2602.15022	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.04893	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.10145	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2604.23525	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.07032	Computation and Language	Machine Learning	test
+test	LogisticRegression	2605.26703	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2608.16141	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2512.24354	Biomolecules	Machine Learning	test
+test	LogisticRegression	2606.10998	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2602.01684	General Economics	Computation and Language	test
+test	LogisticRegression	2609.22446	General Economics	General Economics	test
+test	LogisticRegression	2509.12915	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.17989	General Economics	Theoretical Economics	test
+test	LogisticRegression	2609.36636	Machine Learning	Computation and Language	test
+test	LogisticRegression	2603.16288	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.31145	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.10238	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2603.12412	General Economics	General Economics	test
+test	LogisticRegression	2610.03525	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.05094	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.39661	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.07247	Machine Learning	Computation and Language	test
+test	LogisticRegression	2609.39645	Computation and Language	Computation and Language	test
+test	LogisticRegression	2604.15374	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.35108	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.07168	Machine Learning	Computation and Language	test
+test	LogisticRegression	2609.34678	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.40181	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.36138	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.37373	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2605.30683	General Economics	General Economics	test
+test	LogisticRegression	2609.39827	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.12387	General Economics	General Economics	test
+test	LogisticRegression	2603.1939	General Economics	General Economics	test
+test	LogisticRegression	2601.01334	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2601.15462	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2601.15332	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2605.28026	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2604.06105	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2604.22137	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.04401	Computation and Language	Computation and Language	test
+test	LogisticRegression	2605.31072	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2605.0268	General Economics	General Economics	test
+test	LogisticRegression	2504.11091	Biomolecules	Biomolecules	test
+test	LogisticRegression	2603.12286	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2511.21781	Biomolecules	Biomolecules	test
+test	LogisticRegression	2608.0101	General Economics	General Economics	test
+test	LogisticRegression	2610.07518	Machine Learning	Computation and Language	test
+test	LogisticRegression	2610.01165	Machine Learning	Computation and Language	test
+test	LogisticRegression	2603.1263	Theoretical Economics	General Economics	test
+test	LogisticRegression	2609.3477	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.06443	Machine Learning	Machine Learning	test
+test	LogisticRegression	2503.17361	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.07902	Computation and Language	Machine Learning	test
+test	LogisticRegression	2604.28007	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.03146	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.07974	General Economics	General Economics	test
+test	LogisticRegression	2610.06542	Machine Learning	Machine Learning	test
+test	LogisticRegression	2412.18541	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.05744	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.12181	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.3563	Computation and Language	Machine Learning	test
+test	LogisticRegression	2610.01393	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.37543	Computation and Language	Computation and Language	test
+test	LogisticRegression	2606.12044	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.03039	Computation and Language	Computation and Language	test
+test	LogisticRegression	2602.03009	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.36314	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.38898	Machine Learning	Computation and Language	test
+test	LogisticRegression	2604.01295	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.40121	Computation and Language	Computation and Language	test
+test	LogisticRegression	2601.15032	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.24399	General Economics	General Economics	test
+test	LogisticRegression	2610.03567	Computation and Language	Computation and Language	test
+test	LogisticRegression	2601.09891	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.03372	Machine Learning	Machine Learning	test
+test	LogisticRegression	2509.1246	Biomolecules	Biomolecules	test
+test	LogisticRegression	2504.18506	Machine Learning	Machine Learning	test
+test	LogisticRegression	2603.00097	Biomolecules	Machine Learning	test
+test	LogisticRegression	2609.40035	Computation and Language	Machine Learning	test
+test	LogisticRegression	2609.15797	General Economics	Theoretical Economics	test
+test	LogisticRegression	2507.00953	Biomolecules	Computation and Language	test
+test	LogisticRegression	2604.00349	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2603.23685	Theoretical Economics	General Economics	test
+test	LogisticRegression	2610.02019	Computation and Language	Machine Learning	test
+test	LogisticRegression	2505.15035	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.3659	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.05913	Machine Learning	Neurons and Cognition	test
+test	LogisticRegression	2610.08075	Machine Learning	Machine Learning	test
+test	LogisticRegression	2605.15614	General Economics	General Economics	test
+test	LogisticRegression	2505.03121	Biomolecules	Biomolecules	test
+test	LogisticRegression	2605.21656	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.05143	Machine Learning	Machine Learning	test
+test	LogisticRegression	2503.22164	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.01947	Machine Learning	Machine Learning	test
+test	LogisticRegression	2605.23616	General Economics	Theoretical Economics	test
+test	LogisticRegression	2605.23981	Neurons and Cognition	General Economics	test
+test	LogisticRegression	2502.06881	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.04969	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.35738	Computation and Language	Computation and Language	test
+test	LogisticRegression	2606.05655	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.34829	Computation and Language	Computation and Language	test
+test	LogisticRegression	2608.04925	General Economics	General Economics	test
+test	LogisticRegression	2610.01511	Computation and Language	Computation and Language	test
+test	LogisticRegression	2605.04088	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.07796	Machine Learning	Neurons and Cognition	test
+test	LogisticRegression	2606.3185	Theoretical Economics	General Economics	test
+test	LogisticRegression	2609.38997	Computation and Language	Computation and Language	test
+test	LogisticRegression	2605.01656	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2602.10428	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.36231	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2605.20496	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2607.20699	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.00852	Computation and Language	Computation and Language	test
+test	LogisticRegression	2603.27926	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.1638	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2603.2722	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2608.0538	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2603.0945	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.05874	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.36684	Computation and Language	Machine Learning	test
+test	LogisticRegression	2610.00023	General Economics	Theoretical Economics	test
+test	LogisticRegression	2610.05446	Machine Learning	Machine Learning	test
+test	LogisticRegression	2501.05457	Biomolecules	Machine Learning	test
+test	LogisticRegression	2607.24372	General Economics	Computation and Language	test
+test	LogisticRegression	2607.27548	General Economics	General Economics	test
+test	LogisticRegression	2604.1833	General Economics	General Economics	test
+test	LogisticRegression	2610.05961	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.22716	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2603.22956	General Economics	Theoretical Economics	test
+test	LogisticRegression	2610.08296	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.20807	General Economics	General Economics	test
+test	LogisticRegression	2505.08632	Biomolecules	Biomolecules	test
+test	LogisticRegression	2507.19011	Biomolecules	Computation and Language	test
+test	LogisticRegression	2512.10515	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.06795	Machine Learning	Machine Learning	test
+test	LogisticRegression	2606.1574	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2512.05245	Biomolecules	Biomolecules	test
+test	LogisticRegression	2607.18574	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.23426	General Economics	General Economics	test
+test	LogisticRegression	2507.20426	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.28133	General Economics	General Economics	test
+test	LogisticRegression	2605.27413	Biomolecules	Biomolecules	test
+test	LogisticRegression	2603.01014	General Economics	General Economics	test
+test	LogisticRegression	2610.07676	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.02173	Machine Learning	Computation and Language	test
+test	LogisticRegression	2608.16599	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2605.17086	General Economics	General Economics	test
+test	LogisticRegression	2609.37647	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.01244	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.37408	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.05111	Computation and Language	Machine Learning	test
+test	LogisticRegression	2605.07026	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2601.12339	General Economics	General Economics	test
+test	LogisticRegression	2607.01101	General Economics	General Economics	test
+test	LogisticRegression	2502.00508	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.08129	Machine Learning	Computation and Language	test
+test	LogisticRegression	2608.02479	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2512.20581	Biomolecules	Biomolecules	test
+test	LogisticRegression	2604.09343	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2607.26297	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.056	Machine Learning	Machine Learning	test
+test	LogisticRegression	2604.17151	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.11066	Machine Learning	Neurons and Cognition	test
+test	LogisticRegression	2610.06083	Machine Learning	Machine Learning	test
+test	LogisticRegression	2606.01628	Biomolecules	Biomolecules	test
+test	LogisticRegression	2605.27265	General Economics	General Economics	test
+test	LogisticRegression	2610.08689	Machine Learning	Machine Learning	test
+test	LogisticRegression	2605.10994	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.04344	Machine Learning	Computation and Language	test
+test	LogisticRegression	2606.11902	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2503.21681	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.07365	Computation and Language	Computation and Language	test
+test	LogisticRegression	2603.29176	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2608.17446	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2607.06629	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.08467	General Economics	General Economics	test
+test	LogisticRegression	2610.04269	Machine Learning	Computation and Language	test
+test	LogisticRegression	2609.13858	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.02039	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.0672	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2601.21534	General Economics	General Economics	test
+test	LogisticRegression	2609.3459	Computation and Language	Computation and Language	test
+test	LogisticRegression	2602.08988	General Economics	General Economics	test
+test	LogisticRegression	2610.00373	Machine Learning	Computation and Language	test
+test	LogisticRegression	2606.24351	Neurons and Cognition	Biomolecules	test
+test	LogisticRegression	2604.0348	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2502.15645	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.05069	Computation and Language	Computation and Language	test
+test	LogisticRegression	2512.0132	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.36265	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.05853	Machine Learning	Machine Learning	test
+test	LogisticRegression	2511.14585	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2604.13597	General Economics	Theoretical Economics	test
+test	LogisticRegression	2603.08853	General Economics	General Economics	test
+test	LogisticRegression	2512.03312	Biomolecules	Biomolecules	test
+test	LogisticRegression	2608.1044	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.04071	Machine Learning	General Economics	test
+test	LogisticRegression	2605.22095	General Economics	Computation and Language	test
+test	LogisticRegression	2604.13603	General Economics	Theoretical Economics	test
+test	LogisticRegression	2605.2473	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.05577	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.2499	Neurons and Cognition	Machine Learning	test
+test	LogisticRegression	2605.30963	Biomolecules	Biomolecules	test
+test	LogisticRegression	2506.01714	Biomolecules	General Economics	test
+test	LogisticRegression	2610.06675	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.05125	Machine Learning	Computation and Language	test
+test	LogisticRegression	2606.06059	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2505.08041	Biomolecules	Biomolecules	test
+test	LogisticRegression	2606.19846	General Economics	General Economics	test
+test	LogisticRegression	2607.05802	General Economics	General Economics	test
+test	LogisticRegression	2610.07764	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.06437	Machine Learning	Machine Learning	test
+test	LogisticRegression	2603.21874	General Economics	General Economics	test
+test	LogisticRegression	2607.23222	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2601.18286	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.04649	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.04119	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.01008	General Economics	General Economics	test
+test	LogisticRegression	2609.20405	General Economics	Theoretical Economics	test
+test	LogisticRegression	2506.17963	Biomolecules	Biomolecules	test
+test	LogisticRegression	2607.0018	Biomolecules	Biomolecules	test
+test	LogisticRegression	2601.13282	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2606.11377	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2602.01224	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2603.00706	General Economics	Theoretical Economics	test
+test	LogisticRegression	2609.35749	Computation and Language	Computation and Language	test
+test	LogisticRegression	2503.21788	Biomolecules	Biomolecules	test
+test	LogisticRegression	2511.06585	Biomolecules	Machine Learning	test
+test	LogisticRegression	2609.38995	Computation and Language	Machine Learning	test
+test	LogisticRegression	2609.08474	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.26552	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.19034	General Economics	General Economics	test
+test	LogisticRegression	2609.1875	General Economics	General Economics	test
+test	LogisticRegression	2606.18292	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.03712	Machine Learning	Biomolecules	test
+test	LogisticRegression	2610.06648	Computation and Language	Machine Learning	test
+test	LogisticRegression	2605.25607	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.07819	Machine Learning	Machine Learning	test
+test	LogisticRegression	2603.01496	General Economics	General Economics	test
+test	LogisticRegression	2610.06637	Computation and Language	Machine Learning	test
+test	LogisticRegression	2603.14226	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2602.05291	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2605.18357	General Economics	General Economics	test
+test	LogisticRegression	2512.04035	Theoretical Economics	General Economics	test
+test	LogisticRegression	2610.08353	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.03827	Computation and Language	Computation and Language	test
+test	LogisticRegression	2510.09668	Machine Learning	Machine Learning	test
+test	LogisticRegression	2605.10291	General Economics	General Economics	test
+test	LogisticRegression	2606.30074	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2509.13476	Biomolecules	Machine Learning	test
+test	LogisticRegression	2511.23424	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.25312	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.01066	Computation and Language	Machine Learning	test
+test	LogisticRegression	2505.0053	Machine Learning	Machine Learning	test
+test	LogisticRegression	2507.08162	Biomolecules	Machine Learning	test
+test	LogisticRegression	2607.29093	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2505.17478	Machine Learning	Biomolecules	test
+test	LogisticRegression	2606.16758	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.041	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.03702	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.03007	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.4034	Computation and Language	Computation and Language	test
+test	LogisticRegression	2609.36914	Computation and Language	Computation and Language	test
+test	LogisticRegression	2610.052	Machine Learning	Machine Learning	test
+test	LogisticRegression	2603.157	General Economics	Theoretical Economics	test
+test	LogisticRegression	2606.05206	Neurons and Cognition	Computation and Language	test
+test	LogisticRegression	2601.13379	General Economics	General Economics	test
+test	LogisticRegression	2606.03763	General Economics	General Economics	test
+test	LogisticRegression	2502.12219	Biomolecules	Biomolecules	test
+test	LogisticRegression	2606.24487	Biomolecules	Biomolecules	test
+test	LogisticRegression	2607.0389	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.06308	General Economics	General Economics	test
+test	LogisticRegression	2605.06987	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.14371	Machine Learning	Computation and Language	test
+test	LogisticRegression	2604.17175	Machine Learning	Biomolecules	test
+test	LogisticRegression	2609.34422	Machine Learning	Computation and Language	test
+test	LogisticRegression	2601.10506	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2607.2072	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2508.1076	Biomolecules	Computation and Language	test
+test	LogisticRegression	2606.03481	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2608.11626	General Economics	General Economics	test
+test	LogisticRegression	2605.28854	Computation and Language	Computation and Language	test
+test	LogisticRegression	2604.21836	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.03402	Machine Learning	Machine Learning	test
+test	LogisticRegression	2605.07469	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2605.02852	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.04974	Computation and Language	Computation and Language	test
+test	LogisticRegression	2607.07186	Biomolecules	Biomolecules	test
+test	LogisticRegression	2511.06274	Theoretical Economics	General Economics	test
+test	LogisticRegression	2604.17291	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2609.03182	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.04465	Biomolecules	Biomolecules	test
+test	LogisticRegression	2609.00799	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2606.26959	General Economics	General Economics	test
+test	LogisticRegression	2603.10867	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.06725	Machine Learning	Machine Learning	test
+test	LogisticRegression	2512.02033	Biomolecules	Biomolecules	test
+test	LogisticRegression	2610.04182	General Economics	General Economics	test
+test	LogisticRegression	2604.24147	General Economics	General Economics	test
+test	LogisticRegression	2602.03767	Machine Learning	General Economics	test
+test	LogisticRegression	2610.06744	Computation and Language	Computation and Language	test
+test	LogisticRegression	2512.24192	Biomolecules	Biomolecules	test
+test	LogisticRegression	2602.09967	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2609.37568	Computation and Language	Computation and Language	test
+test	LogisticRegression	2603.05153	General Economics	General Economics	test
+test	LogisticRegression	2610.02163	Computation and Language	Computation and Language	test
+test	LogisticRegression	2512.23409	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2604.142	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.06805	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.04905	Machine Learning	Machine Learning	test
+test	LogisticRegression	2609.09228	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2502.12049	Machine Learning	Biomolecules	test
+test	LogisticRegression	2610.04572	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.20057	Biomolecules	Biomolecules	test
+test	LogisticRegression	2602.12897	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2610.05338	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.07938	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.14585	General Economics	General Economics	test
+test	LogisticRegression	2609.39163	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2602.12958	General Economics	General Economics	test
+test	LogisticRegression	2610.02092	Computation and Language	Machine Learning	test
+test	LogisticRegression	2602.21504	General Economics	Theoretical Economics	test
+test	LogisticRegression	2601.15321	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2610.07904	Machine Learning	Machine Learning	test
+test	LogisticRegression	2610.06345	Computation and Language	Computation and Language	test
+test	LogisticRegression	2503.05738	Biomolecules	Biomolecules	test
+test	LogisticRegression	2602.07808	General Economics	General Economics	test
+test	LogisticRegression	2606.126	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2606.10845	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2603.096	Neurons and Cognition	Neurons and Cognition	test
+test	LogisticRegression	2608.08851	General Economics	General Economics	test
+test	LogisticRegression	2605.2396	Biomolecules	Biomolecules	test
+test	LogisticRegression	2604.18144	General Economics	General Economics	test
+test	LogisticRegression	2606.24013	Theoretical Economics	Theoretical Economics	test
+test	LogisticRegression	2509.18153	Machine Learning	Machine Learning	test
+test	LogisticRegression	2607.17096	Biomolecules	Neurons and Cognition	test
+test	LogisticRegression	2608.01212	General Economics	General Economics	test
+test	LogisticRegression	2502.19173	Machine Learning	Biomolecules	test
